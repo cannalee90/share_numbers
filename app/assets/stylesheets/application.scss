@@ -1,0 +1,39 @@
+$light-orange: #ff8c00;
+$navbar-default-color: $light-orange;
+$navbar-default-bg: #312312;
+$navbar-default-link-color: gray;
+$navbar-default-link-active-color: $light-orange;
+$navbar-default-link-hover-color: white;
+$navbar-default-link-hover-bg: black;
+
+@import url('http://api.mobilis.co.kr/webfonts/v2/css/BM-HANNAWeb');
+@import 'bootstrap';
+#index_title{
+    font-family: 'BM-HANNAWeb';
+    color:white;}
+.logins{position:relative ;
+    left:3%;}
+body { padding-top: 60px; 
+       padding-bottom: 60px;
+       padding-left: 20px;
+       padding-right: 20px;
+background-image:url('/lion2.jpg');
+ background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  
+}
+
+.bar{margin: 2px;
+ margin-bottom:2px;
+}
+  
+.inform_describe{
+    font-size:20px;
+    color:white;
+    font-family: 'BM-HANNAWeb';
+}
+    
+h1{
+    color:white;
+}

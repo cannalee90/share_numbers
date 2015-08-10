@@ -1,0 +1,4846 @@
+{
+  "user_list": [
+    {
+      "email": "hansol.jang7@gmail.com", 
+      "mobile": "01023267536", 
+      "name": "\uc7a5\ud55c\uc194", 
+      "password": "$2a$12$4ijtMftrmUARTSKW5nBG0eVaVltAw2wl1446GDp008Q/juuKNoEc6", 
+      "role": "LEADER", 
+      "school": "UNIST", 
+      "team": "\uc544\uce68\ud615\uc778\uac04"
+    }, 
+    {
+      "email": "humn9136@gmail.com", 
+      "mobile": "01079305665", 
+      "name": "\uac15\ud615\ubbfc", 
+      "password": "$2a$12$hPrCLu3u8S8NPXasut831uPixUuWVdTRFwO3S4cmQkIcU/F7o7LVO", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc544\uce68\ud615\uc778\uac04"
+    }, 
+    {
+      "email": "dltjq0730@unist.ac.kr", 
+      "mobile": "01044481828", 
+      "name": "\uae40\uc774\uc12d", 
+      "password": "$2a$12$sEDqDJu.0X8nKR/1uAdoK.ATvfd.m6ddVlDtkCgNcmmHXiT/XkONu", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc544\uce68\ud615\uc778\uac04"
+    }, 
+    {
+      "email": "wodudk1701@gmail.com", 
+      "mobile": "01055199555", 
+      "name": "\uae40\uc7ac\uc601", 
+      "password": "$2a$12$EZyfILjbJD.bjCdyCvzXLOsKOqgdjsEzczKfOp6VhoSN857wp12SK", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc544\uce68\ud615\uc778\uac04"
+    }, 
+    {
+      "email": "tjdrkfka506@unist.ac.kr", 
+      "mobile": "01036148623", 
+      "name": "\uc131\uac00\ub78c", 
+      "password": "$2a$12$dDWnYVGv/uEuOOycmnHjVemh4.jkvW2kFnvnyAwLO41gnku8eDs4O", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc544\uce68\ud615\uc778\uac04"
+    }, 
+    {
+      "email": "thsquddn7@gmail.com", 
+      "mobile": "01050130193", 
+      "name": "\uc190\ubcd1\uc6b0", 
+      "password": "$2a$12$6wugeRZAzbsp3EM2GewozuO6AEU4qkVTVCE31TvVC8Np/xF3xDYZa", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc544\uce68\ud615\uc778\uac04"
+    }, 
+    {
+      "email": "tkfkatkffu12@naver.com", 
+      "mobile": "01048405366", 
+      "name": "\uae40\uc601\uae38", 
+      "password": "$2a$12$Eva07.qtPTJY8FESTLLoiOZnrwYGmwp4fybHXXDdSk/tnjpeV.LQG", 
+      "role": "LEADER", 
+      "school": "UNIST", 
+      "team": "\uc5b8\ub2c8\uc800\ud76c\ub9d8\uc5d0\uc548\ub4e4\uc870"
+    }, 
+    {
+      "email": "kbs9407@naver.com", 
+      "mobile": "01046063662", 
+      "name": "\uae40\ubc94\uc218", 
+      "password": "$2a$12$Fo.tRq4grCTAu7AOej6Tbe5ucT7FeiPyOqFhBtXBgmo1vnZVnAJ5W", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5b8\ub2c8\uc800\ud76c\ub9d8\uc5d0\uc548\ub4e4\uc870"
+    }, 
+    {
+      "email": "chung7891@unist.ac.kr", 
+      "mobile": "01093989512", 
+      "name": "\uc815\ubbf8\uc601", 
+      "password": "$2a$12$ajcnz3IbS3Y9f2PSYH6MC.32F4/TdeAjF.OiaanhO..D3L8BwRXFK", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5b8\ub2c8\uc800\ud76c\ub9d8\uc5d0\uc548\ub4e4\uc870"
+    }, 
+    {
+      "email": "j2woong1@unist.ac.kr", 
+      "mobile": "01077303301", 
+      "name": "\uc815\uc9c0\uc6c5", 
+      "password": "$2a$12$e4nST9Y/35yzFksMs1qt/.a8FaMMcCGqQSJ6ac8xpM4AzVUrBU46S", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5b8\ub2c8\uc800\ud76c\ub9d8\uc5d0\uc548\ub4e4\uc870"
+    }, 
+    {
+      "email": "goodhen2@unist.ac.kr", 
+      "mobile": "01067771438", 
+      "name": "\uc815\ud574\uc9c4", 
+      "password": "$2a$12$QPCdaX/bjbiLcUotexS2aOWyOPGwj2M9MiLAOBMy0IrWUiCDtxH0W", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5b8\ub2c8\uc800\ud76c\ub9d8\uc5d0\uc548\ub4e4\uc870"
+    }, 
+    {
+      "email": "kiw1118@nate.com", 
+      "mobile": "01071447215", 
+      "name": "\uae40\uc815\uc6b1", 
+      "password": "$2a$12$C26kLN2GNGJ8ikYZJ6tUSOwA7cBrizPfmD3FcXTxs02j8hNgFA..q", 
+      "role": "LEADER", 
+      "school": "UNIST", 
+      "team": "\uc5ec\uc790\uc5c6\uc870"
+    }, 
+    {
+      "email": "ooo0367@unist.ac.kr", 
+      "mobile": "01053720367", 
+      "name": "\ubb38\uc131\uc6b0", 
+      "password": "$2a$12$fo4i5ovdjn0ag8uzp7MmT.Q/IzCtgb49NVN7Pkq5vlLydnW5eWQKS", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5ec\uc790\uc5c6\uc870"
+    }, 
+    {
+      "email": "dbckdgkrdnjs@naver.com", 
+      "mobile": "01074088047", 
+      "name": "\ubb38\uc9c0\ud6c8", 
+      "password": "$2a$12$NOZKsm9uTqj8cqxlXcbbPukj1VohdLpTIVh2qDVKDvX.yFMixl92W", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5ec\uc790\uc5c6\uc870"
+    }, 
+    {
+      "email": "seinChung@unist.ac.kr", 
+      "mobile": "01091339681", 
+      "name": "\uc815\uc138\uc778", 
+      "password": "$2a$12$pYtutgy/rc7hEwztII9uj.e9il9FRScMjqH3V9KbBXbJIfnGwmKGq", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5ec\uc790\uc5c6\uc870"
+    }, 
+    {
+      "email": "silvara805@gmail.com", 
+      "mobile": "01041486278", 
+      "name": "\uc870\uc7ac\ubbfc", 
+      "password": "$2a$12$1Ffo6ijx.1J6P3HEvrXbFev.0ruE0Z2qGT7DVkrLE.BGRWW/ZwUTO", 
+      "role": "USER", 
+      "school": "UNIST", 
+      "team": "\uc5ec\uc790\uc5c6\uc870"
+    }, 
+    {
+      "email": "nostudent@hanmail.net", 
+      "mobile": "01089356511", 
+      "name": "\uc548\uc7ac\ud6c8", 
+      "password": "$2a$12$K5dfTY5Dccoi1EizCH10HOmEh3Jo6wH77IuRH9OeRd.P601gvnP2K", 
+      "role": "LEADER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "theqwe2000@naver.com", 
+      "mobile": "01026461629", 
+      "name": "\uae40\uc2b9\ud55c", 
+      "password": "$2a$12$xSIxHvT.56LkbrtDv9zBrurSTDjLfmszqMLbK/U43kUWhV3ARnXMO", 
+      "role": "USER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "wnave@naver.com", 
+      "mobile": "01048297513", 
+      "name": "\uc724\uc9c0\ud61c", 
+      "password": "$2a$12$KSO2aBLEPjYZPgkKCIsDvu4uuhXSkOKKLLzP2JBlIMV06XpaJb5Me", 
+      "role": "USER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "scv7766@naver.com", 
+      "mobile": "01068762695", 
+      "name": "\uc774\uc2b9\uc740", 
+      "password": "$2a$12$qUPsSGP3PinmrdK3Q89VTObxuO4GxkC/eVluWup3cw.JfJsnHktE2", 
+      "role": "USER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "woosuk-0-@nate.com", 
+      "mobile": "01079314311", 
+      "name": "\uc774\uc6b0\uc11d", 
+      "password": "$2a$12$BjBXuG0p.yodHJ5E8/1O8Ogehen9SLGIX6EhqJy1KnSIxZKEqK5iu", 
+      "role": "USER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "yhlee980@gmail.com", 
+      "mobile": "01099014639", 
+      "name": "\uc774\uc724\ud638", 
+      "password": "$2a$12$qpscSNI/cwFz5saazjm0V.iGDwpUSeK38MVNRKTKUFIvIfuCQZWCW", 
+      "role": "USER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "csh4626@naver.com", 
+      "mobile": "01092289428", 
+      "name": "\ucd5c\uc2b9\ud76c", 
+      "password": "$2a$12$TiCKdJrFQh2v5P2iDAqtUuOl1g9.3xR3LUBMW6ZBVdmSGrWOQs7NK", 
+      "role": "USER", 
+      "school": "\uac15\uc6d0\ub300\ud559\uad50", 
+      "team": "\uc5f4\uc2ec\ud788\uc880\ud558\uc2dc\uc870"
+    }, 
+    {
+      "email": "missrowoon@naver.com", 
+      "mobile": "01055486253", 
+      "name": "\uae40\ub85c\uc6b4", 
+      "password": "$2a$12$OKTSk5ZpVoknZAibV.LKJOLx81FinCXJHeDKRLxwBZ6cjv.X.vdVO", 
+      "role": "LEADER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\ud669\uc18c\ucc98\ub7fc"
+    }, 
+    {
+      "email": "dhrhyyc@naver.com", 
+      "mobile": "01099101504", 
+      "name": "\uae40\ud0dc\ud6c8", 
+      "password": "$2a$12$uTPZiqanDmEQEFekuRKSmuX8AP90P4qewW3FJ6Ot8lY3s0gkQN8b.", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\ud669\uc18c\ucc98\ub7fc"
+    }, 
+    {
+      "email": "sangsunq@naver.com", 
+      "mobile": "01087256647", 
+      "name": "\ubc15\uc0c1\uc120", 
+      "password": "$2a$12$TbytstxKL4UGKifU4lT55ux3wkALwKYBc0KeE6QOW4ofKnrzB6GN6", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\ud669\uc18c\ucc98\ub7fc"
+    }, 
+    {
+      "email": "smartyjpark@gmail.com", 
+      "mobile": "01091638352", 
+      "name": "\ubc15\uc608\uc900", 
+      "password": "$2a$12$w5ElhuCVx4LtjpAdF.tR3u1316DXRZibOUcCiQ0E7p9WIO43Gzd5q", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\ud669\uc18c\ucc98\ub7fc"
+    }, 
+    {
+      "email": "fbwnsgml1@gmail.com", 
+      "mobile": "01030024017", 
+      "name": "\uc720\uc900\ud76c", 
+      "password": "$2a$12$j9HSUelAImquSfqjiXiBLO9JNCrHwIn/D7.KBxEy.cxAxjv7F1tmm", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\ud669\uc18c\ucc98\ub7fc"
+    }, 
+    {
+      "email": "didosirius@gmail.com", 
+      "mobile": "01062238693", 
+      "name": "\uc774\uac74\ud638", 
+      "password": "$2a$12$Xi8jf8Syrdsekb2e6Na8aOEmTrY7REsVhdp2Wn9mTznAZCnpA4n4W", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\ud669\uc18c\ucc98\ub7fc"
+    }, 
+    {
+      "email": "gnujoow.kim@gmail.com", 
+      "mobile": "01087633795", 
+      "name": "\uae40\uc6b0\uc815", 
+      "password": "$2a$12$oagXd9CRkUvbmPdWYov8jenWyLidegqAboERXCcxStIaJ1otr/0bG", 
+      "role": "LEADER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uc6b0\ub9ac\ud300\uc7a5\uc774\ubbf8\ucce4\ub2e4"
+    }, 
+    {
+      "email": "shdong0228@gmail.com", 
+      "mobile": "01026805541", 
+      "name": "\ub3d9\uc11c\ud604", 
+      "password": "$2a$12$r3BNZq9b8/6kPcLuJiYi2.6dgVEBUlCabuR.AV03vZP4lqAwSF7Bm", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uc6b0\ub9ac\ud300\uc7a5\uc774\ubbf8\ucce4\ub2e4"
+    }, 
+    {
+      "email": "cho_4528@naver.com", 
+      "mobile": "01045092942", 
+      "name": "\ub9c8\uacbd\ub3c4", 
+      "password": "$2a$12$lvQWb7UmiIGqKmER7Kh.B.csK5MJKKfTplDYibsR/N46M8CixgPJW", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uc6b0\ub9ac\ud300\uc7a5\uc774\ubbf8\ucce4\ub2e4"
+    }, 
+    {
+      "email": "sjy032@naver.com", 
+      "mobile": "01097378192", 
+      "name": "\uc2e0\uc8fc\uc6a9", 
+      "password": "$2a$12$2Bek/xC8E2Cu1TeVr4Akxe96qvgxWkZl40/yeRwBADjXBPuUqdupG", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uc6b0\ub9ac\ud300\uc7a5\uc774\ubbf8\ucce4\ub2e4"
+    }, 
+    {
+      "email": "zebrain0448@gmail.com", 
+      "mobile": "01029890686", 
+      "name": "\uc720\uc9c4\uc6b1", 
+      "password": "$2a$12$H5g0uXZW2n3w7z/Sj38YyusAxdzGnVnQcWwvlCsO/LqsSu2FZEIb2", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uc6b0\ub9ac\ud300\uc7a5\uc774\ubbf8\ucce4\ub2e4"
+    }, 
+    {
+      "email": "okm50088@naver.com", 
+      "mobile": "01029772233", 
+      "name": "\ud568\uc0c1\ube48", 
+      "password": "$2a$12$Nt41JR89SDwVqsqzonpymOKMDpKcn1ii01h76rqoyXWZ.0idgvomC", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\uc6b0\ub9ac\ud300\uc7a5\uc774\ubbf8\ucce4\ub2e4"
+    }, 
+    {
+      "email": "hyeonjoopark88@gmail.com", 
+      "mobile": "01099296306", 
+      "name": "\ubc15\ud604\uc8fc", 
+      "password": "$2a$12$TFWhzU9z/9hjIMJcWc34ge0SEsM2BRWJCX4DYmRJVXyvA1Lo79g6G", 
+      "role": "LEADER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "seonghwankim0406@gmail.com", 
+      "mobile": "01077250659", 
+      "name": "\uae40\uc131\ud658", 
+      "password": "$2a$12$qDgeMdNJG2G7sKfbbi25oufPjnd3wXNYLoWVYPDdnyX/MWOMRMiLq", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "corggii@gmail.com", 
+      "mobile": "01040076009", 
+      "name": "\ubc15\uc601\uc2e0", 
+      "password": "$2a$12$Y2Z8YzpAhSYJasIJN/nENuofDre8NmD4uuT2Kj2/TcFSU7rmr6X/2", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "grimandmandy@naver.com", 
+      "mobile": "01085911593", 
+      "name": "\uc11c\uc7ac\uc740", 
+      "password": "$2a$12$Agg79zZSlDVJdaw9WDoafOnFfnlEvAvROO/NFXkxkVevqymrxyDlm", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "kinzzss123@gmail.com", 
+      "mobile": "01089720177", 
+      "name": "\uc548\uc900\ud658", 
+      "password": "$2a$12$Jnv.bXBW9mUArM..LMsavOdeKQ9GIY6nz7RzPlZwFy1xSjHL8B4Ne", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "joonzzang90@naver.com", 
+      "mobile": "01055289429", 
+      "name": "\uc7a5\uc900\ud604", 
+      "password": "$2a$12$GtlzSY8tEn2ITV5420Nheuu7muqk8jD2gfwttoQgiGqcJz7ePfpH2", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "joonzzang90@gmail.com", 
+      "mobile": "01055289429", 
+      "name": "\uc7a5\uc900\ud604", 
+      "password": "$2a$12$hLITFhhm1TPSjf8BosPpzuzZDzM.17G24XcEiNIrvn7/EX6Yd4ska", 
+      "role": "USER", 
+      "school": "\uac74\uad6d\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uac74\ub300"
+    }, 
+    {
+      "email": "bgw0512@naver.com", 
+      "mobile": "01092528043", 
+      "name": "\ubc30\uac74\uc6b0", 
+      "password": "$2a$12$rEK6vu3VjTma6OJi0wCeBOyA1BOKVfMbMkR945D.OnMCca1EOeikW", 
+      "role": "LEADER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "chanha0406@naver.com", 
+      "mobile": "01045407644", 
+      "name": "\ub958\ucc2c\ud558", 
+      "password": "$2a$12$wZgtPMZeVqM89I4ZfIVeAuneCZLzrG2YrqTrasl4LqpmWl9xuqHUG", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "wkdejr16@naver.com", 
+      "mobile": "01051202928", 
+      "name": "\uc7a5\uc6d0\ub355", 
+      "password": "$2a$12$EI0EIrJSBu6eKh8/KZcmlOT4uDY/IGflX64/Yvax3VVKa.1g0zDGe", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "wsjang34@gmail.com", 
+      "mobile": "01026698523", 
+      "name": "\uc7a5\uc6d0\uc11d", 
+      "password": "$2a$12$K94FLhpIt2t5M2oJ0oafrOrnDrx5.1..7FgxbqE2w.A8S3twiO0De", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "sfsf713@nate.com", 
+      "mobile": "01089053459", 
+      "name": "\uc815\uc6d0\uc6b0", 
+      "password": "$2a$12$1Lh3fNxwhoPFncVVJryeW.HPZ9DdLMsAzzJmE264VaGpptpuA8./C", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "limchulehee@gmail.com", 
+      "mobile": "01036184864", 
+      "name": "\uc784\ucca0\ud76c", 
+      "password": "$2a$12$/WhTNl3bxC/V9QxXQAAVGOFYfC1soQxfcJS7Yh7WoMjjdyoIAqey.", 
+      "role": "LEADER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "Vanguard"
+    }, 
+    {
+      "email": "hmu1212@hotmail.com", 
+      "mobile": "01094677942", 
+      "name": "\ubc15\ub2a5\uc5c4", 
+      "password": "$2a$12$KRNnDxwlRTFzau8fxX3/AOI59lCvnCEv4H6nhChkf../pJOjt0T42", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "Vanguard"
+    }, 
+    {
+      "email": "touriste.polar@gmail.com", 
+      "mobile": "01052684421", 
+      "name": "\ubc30\uc740\uc9c0", 
+      "password": "$2a$12$TNude8FFGWnFHBouXmtloudZrOHp5xHvzpN/cQ1TESHI88pAklpXO", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "Vanguard"
+    }, 
+    {
+      "email": "yunstar1105@gmail.com", 
+      "mobile": "01056742898", 
+      "name": "\uc724\ubcf4\ub78c", 
+      "password": "$2a$12$hK/kmRgqHShZqDzozuSmlewGoYv56oGISqAPvqiCewPkQlPmWEn42", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "Vanguard"
+    }, 
+    {
+      "email": "capollux@naver.com", 
+      "mobile": "01042414786", 
+      "name": "\ud669\uc900\uc6b0", 
+      "password": "$2a$12$jDV/T5bbGCbJ2ti4u1c1guMfy8Zk6gBgoX2kZSEP3OJIjv.Z69al.", 
+      "role": "USER", 
+      "school": "\uacbd\ubd81\ub300\ud559\uad50", 
+      "team": "Vanguard"
+    }, 
+    {
+      "email": "bigtory.kim@gmail.com", 
+      "mobile": "01048581412", 
+      "name": "\uae40\uc2b9\ud6c8", 
+      "password": "$2a$12$s1kX4B.Q.x5s82wJYAjxhunmxHsaRQbuoevL1sMtgMeozAPB4REPG", 
+      "role": "LEADER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "whdidtnr224@naver.com", 
+      "mobile": "01066097534", 
+      "name": "\ubc15\uacbd\uaddc", 
+      "password": "$2a$12$BiJW45ccmYU0ToKLIFdNX.iAQGg8mQlj7WRn2CMl8nUFOcCzF3J36", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "bandnap@gmail.com", 
+      "mobile": "01088490890", 
+      "name": "\ubc15\uc11c\ud76c", 
+      "password": "$2a$12$fMmf.hqteka/9ovvZ09UwuwxR2WpKlF7xjQr1.smrjh/yfcM8aniq", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "blenew@naver.com", 
+      "mobile": "01029594585", 
+      "name": "\ubc29\ud76c\uc218", 
+      "password": "$2a$12$/Wtt9yGKzczmk0UEQHusiO3LRS7fcTrSUn5mSuQS2.hTBRENFbfEq", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "sjg0908@gmail.com", 
+      "mobile": "01045170908", 
+      "name": "\uc2e0\uc911\uad8c", 
+      "password": "$2a$12$RFqdvZiiBSyhT8h8zlmnKutcCYzEAE9NdMTCL.brINwBa0lfmeqy6", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "ryou9305@naver.com", 
+      "mobile": "01050939305", 
+      "name": "\uc720\uc7ac\uc6b1", 
+      "password": "$2a$12$FPRu59JZ2RSnQTwjA7pY9eR3qPBKzmaQ/5at4P0Crt7BaRYXOFFay", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "jeh0238@naver.com", 
+      "mobile": "01033420238", 
+      "name": "\uc870\uc758\ud658", 
+      "password": "$2a$12$3fdvG1Kg0B/nR58RVPtIuOPxvfhGD/KOw3n3SqYeKYS7FthjOnOH6", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "hhjpower@gmail.com", 
+      "mobile": "01039979115", 
+      "name": "\ud5c8\ud601\uc7ac", 
+      "password": "$2a$12$1iU0Wh1R3ULAX9r8lt6a1eagElC/wxkgcZ1fqdC//Pgz4fa79KcVG", 
+      "role": "USER", 
+      "school": "\uacbd\ud76c\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud574\uc11c \ud30c\uc804\uc0ac\uc790"
+    }, 
+    {
+      "email": "borisoftware@gmail.com", 
+      "mobile": "01041801486", 
+      "name": "\uc774\uc8fc\uc601", 
+      "password": "$2a$12$qChFUuUxMQ.K7X35YJqoEe4imkGdvCSy8rBU6p3e4SJTEFVYJvnCC", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "G\uad6c\uc815\ubcf5"
+    }, 
+    {
+      "email": "2kanghee1@hanmail.net", 
+      "mobile": "01085997252", 
+      "name": "\uc774\uac15\ud76c", 
+      "password": "$2a$12$Mr7hDEyfDccD1nrcrKN2tOZCj/2ql5QKu0FzRqMhf1TNCnooZJNgK", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "G\uad6c\uc815\ubcf5"
+    }, 
+    {
+      "email": "toomy0toons@gmail.com", 
+      "mobile": "01086137940", 
+      "name": "\uc774\ud0d0", 
+      "password": "$2a$12$xMp3B38FxNScUnkmu8wgFOx/vgTj37vxGGeMQqBqtR2tJlW27Xtxy", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "G\uad6c\uc815\ubcf5"
+    }, 
+    {
+      "email": "wosu007@naver.com", 
+      "mobile": "01062782685", 
+      "name": "\ucd5c\uc740\ud76c", 
+      "password": "$2a$12$vwCjeQRawpa/IpIprJnldedWBYcsAh9GDC.jr.pcBRoCTS9rLEDvC", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "G\uad6c\uc815\ubcf5"
+    }, 
+    {
+      "email": "sunguk7628@naver.com", 
+      "mobile": "01085047628", 
+      "name": "\ud64d\uc131\uc6b1", 
+      "password": "$2a$12$UpESf.9GXxueElmA/HXuQ.5pFBI4b1mi2DCxPtnIx0dTgAmy/iCcO", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "G\uad6c\uc815\ubcf5"
+    }, 
+    {
+      "email": "gsh22996769@gmail.com", 
+      "mobile": "01022996769", 
+      "name": "\uad6c\uc131\ud68c", 
+      "password": "$2a$12$gKw5Cfg1eVem5VrtftmIRuzjk5HJKPoHNZ2XDkjH9Bga0vQ8vJtTO", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\u314e\u314c\u3141\u3139"
+    }, 
+    {
+      "email": "junee613@gmail.com", 
+      "mobile": "01076688970", 
+      "name": "\uae40\uc900\uc601", 
+      "password": "$2a$12$491rxu0xk5MrqreJTwqCKu9RcxbmVyvx0S/TcK08d4wybdhIPaduG", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\u314e\u314c\u3141\u3139"
+    }, 
+    {
+      "email": "byeongsopark@gmail.com", 
+      "mobile": "01071727518", 
+      "name": "\ubc15\ubcd1\uc18c", 
+      "password": "$2a$12$r12rIa5pYdVwGEZXk7kcreOq5D0eESpCUR33/mLqwxxIdN8RtDWK6", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\u314e\u314c\u3141\u3139"
+    }, 
+    {
+      "email": "1117jun@korea.ac.kr", 
+      "mobile": "01054050061", 
+      "name": "\uc190\uc131\uc900", 
+      "password": "$2a$12$b1AvdoKe0hZjSmQavgH42u.Xmfd64pkoJiyl5p6bm6/5BdTm0kuti", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\u314e\u314c\u3141\u3139"
+    }, 
+    {
+      "email": "mecabear92@gmail.com", 
+      "mobile": "01099042515", 
+      "name": "\uc6b0\uc9c0\ud6c8", 
+      "password": "$2a$12$mHcvE/zLJn.euktUwaN3juCHxILzSF5HM00nq/65p03Joh6vdSVIa", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\u314e\u314c\u3141\u3139"
+    }, 
+    {
+      "email": "sedna90@naver.com", 
+      "mobile": "01027051306", 
+      "name": "\uc784\uc9c0\ud64d", 
+      "password": "$2a$12$RlWHTX4WXlJPVmZh2PK9z.cmmM3UepjxWdGrK9s6lRxlA8YDGn9t.", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\u314e\u314c\u3141\u3139"
+    }, 
+    {
+      "email": "yoonhwanz@naver.com", 
+      "mobile": "01088359028", 
+      "name": "\uae40\uc724\ud658", 
+      "password": "$2a$12$tqe6K6fNgjqikVCDiE38yOMF9RrpS9IuIIxiih5SeVmn2BGJ1tIXO", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uac1c\ubc1c\uc554"
+    }, 
+    {
+      "email": "01067334056@naver.com", 
+      "mobile": "01087034056", 
+      "name": "\uae40\ub3d9\uc900", 
+      "password": "$2a$12$rBo5YveRi0rpnvxzm0evm./nPQqqYJcmHLL/VgvQo56NmLSRC64nq", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uac1c\ubc1c\uc554"
+    }, 
+    {
+      "email": "kolivia@korea.ac.kr", 
+      "mobile": "01024172252", 
+      "name": "\uae40\uc9c0\uc5b8", 
+      "password": "$2a$12$s9.HrvMrH1ySoYqWb6oMyORNlqnje5wW8medn3Jjazsxh3UpKrmsa", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uac1c\ubc1c\uc554"
+    }, 
+    {
+      "email": "euyjin0406@korea.ac.kr", 
+      "mobile": "01075354006", 
+      "name": "\ubc15\uc758\uc9c4", 
+      "password": "$2a$12$kkDbpB2FrCmKbO.oMJ/EO.E4Y.NpOqHGkkQKh2S.XEAej3I.xtwI.", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uac1c\ubc1c\uc554"
+    }, 
+    {
+      "email": "pinjk12@naver.com", 
+      "mobile": "01056680435", 
+      "name": "\uc774\uacbd\ubbfc", 
+      "password": "$2a$12$UOAA9QBcIfE7O5vtrLoXWe5GeFWz/kD9kSZOIWedVdI1skbZyUvc6", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uac1c\ubc1c\uc554"
+    }, 
+    {
+      "email": "syhong0714@gmail.com", 
+      "mobile": "01030431714", 
+      "name": "\ud64d\uc11d\uc720", 
+      "password": "$2a$12$Dx08AHhDW7x.SG8I2mBiPe/MoglGWMdKInXOBxCqkFMmTuHs59qfe", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uac1c\ubc1c\uc554"
+    }, 
+    {
+      "email": "ohs2033@korea.ac.kr", 
+      "mobile": "01029208859", 
+      "name": "\uc624\ud604\uc218", 
+      "password": "$2a$12$DMQG/3ul24Hqq7T5OjqN8uzaL.FPEufC9aamGlOlUPiswn/9tHNi2", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uae08\ubcf5\uac00\ub8e8"
+    }, 
+    {
+      "email": "philosper1@korea.ac.kr", 
+      "mobile": "01065080602", 
+      "name": "\uae40\uc9c0\ud604", 
+      "password": "$2a$12$5EJ4cWxnhg0RVsACa2qn6e/FoLY6vxURXY9PiB4F6xC7qq8q/.q3y", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uae08\ubcf5\uac00\ub8e8"
+    }, 
+    {
+      "email": "lyusungwon@naver.com", 
+      "mobile": "01086627948", 
+      "name": "\ub958\uc131\uc6d0", 
+      "password": "$2a$12$MvIDXCN.uiaWCaDOeDPU2uN7ehUefIJz1fkXDi4/H/idW0yuDb24u", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uae08\ubcf5\uac00\ub8e8"
+    }, 
+    {
+      "email": "arsgd@naver.com", 
+      "mobile": "01030390991", 
+      "name": "\uc774\uc885\ud638", 
+      "password": "$2a$12$LAO5seuNPNAuojSwgaXbZeRFAtznLpmXn6vDMdMYvKBr7GNq9zk2K", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uae08\ubcf5\uac00\ub8e8"
+    }, 
+    {
+      "email": "happye22@naver.com", 
+      "mobile": "01040857380", 
+      "name": "\ucd5c\uc601\uc740", 
+      "password": "$2a$12$1FbLwjeGlujP1yFHEW6tvumQLW3pWK2wKDUU3MlvyJRgCBGscQwZq", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uae08\ubcf5\uac00\ub8e8"
+    }, 
+    {
+      "email": "matilda38@naver.com", 
+      "mobile": "01088793136", 
+      "name": "\ud669\ub098\uc724", 
+      "password": "$2a$12$MFtgAYHlH7POu9ZMEedQKeiPUfUBXrxjc9wKVB8jkUnu/YuMTANEi", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uae08\ubcf5\uac00\ub8e8"
+    }, 
+    {
+      "email": "tisutoo@korea.ac.kr", 
+      "mobile": "01050554145", 
+      "name": "\uc1a1\uc11c\ud558", 
+      "password": "$2a$12$9oLdvStyz6iliee4TFFBhuPr7cp2tlUdHGzd.lLj0m5o3ONeHKslK", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\ubbf8\ud305\ud560\uc0ac\ub78c?"
+    }, 
+    {
+      "email": "epona7471@gmail.com", 
+      "mobile": "01096717471", 
+      "name": "\uac15\uc724", 
+      "password": "$2a$12$vDkFTi9qcxobldCc3Nb58e0/nHD2BzOsaQOQnZlXeJIdG/FK5coEW", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\ubbf8\ud305\ud560\uc0ac\ub78c?"
+    }, 
+    {
+      "email": "anjella6636@gmail.com", 
+      "mobile": "01095129355", 
+      "name": "\uae40\uc694\uc12d", 
+      "password": "$2a$12$0Zrh8LcNGJBJxs3KH/hXmO/o6ftfhgGkafrwIuK9T.I8VOdHZGtu.", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\ubbf8\ud305\ud560\uc0ac\ub78c?"
+    }, 
+    {
+      "email": "asoorhee@naver.com", 
+      "mobile": "01090828332", 
+      "name": "\uc774\uc778\uc218", 
+      "password": "$2a$12$/IO8mnpKP.wgBpeFtWEde.GgBZevcJJQkbPsrQLrXyLUtISLEco5G", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\ubbf8\ud305\ud560\uc0ac\ub78c?"
+    }, 
+    {
+      "email": "alnldlyl@naver.com", 
+      "mobile": "01086989442", 
+      "name": "\uc774\ud604\uae30", 
+      "password": "$2a$12$NeidonXBuf8GHFMEzY1qnuXIioIRHXTFwMj3Gp3h6oMYQPxcNbbKC", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\ubbf8\ud305\ud560\uc0ac\ub78c?"
+    }, 
+    {
+      "email": "greativejoo@gmail.com", 
+      "mobile": "01074172341", 
+      "name": "\uc8fc\ud55c\uacb0", 
+      "password": "$2a$12$trcBf.tCy2u0hCzI0cHJAOz/bQ6WyfK999NfDyDMf5XpAHuouK0Hq", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\ubbf8\ud305\ud560\uc0ac\ub78c?"
+    }, 
+    {
+      "email": "nicholaskim94@gmail.com", 
+      "mobile": "01029517480", 
+      "name": "\uae40\uc2b9\uc8fc", 
+      "password": "$2a$12$09rvLRgWKGYy26n55eazOe/NMQKLoKaNlSMOkJCy4mKGdw3b6OG.a", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc138\uc0c1\uc740 2\ub4f1\uc744 \uae30\uc5b5\ud574 \uc8fc\uc9c0 \uc54a\uc544"
+    }, 
+    {
+      "email": "kimsy701@naver.com", 
+      "mobile": "01084742326", 
+      "name": "\uae40\ud61c\uc5f0", 
+      "password": "$2a$12$Cn5clGm2bgBN7quboKmpTOBCzwUlGijnWtCqOIhz/qwj0iWzZU4F.", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc138\uc0c1\uc740 2\ub4f1\uc744 \uae30\uc5b5\ud574 \uc8fc\uc9c0 \uc54a\uc544"
+    }, 
+    {
+      "email": "seop91@naver.com", 
+      "mobile": "01020670722", 
+      "name": "\ubb38\uc9c0\uc12d", 
+      "password": "$2a$12$9Wg80DkJF3zVAlfps89EOO0wua7yLsY.he/QZxyvgeciUZFu8aETW", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc138\uc0c1\uc740 2\ub4f1\uc744 \uae30\uc5b5\ud574 \uc8fc\uc9c0 \uc54a\uc544"
+    }, 
+    {
+      "email": "songjh7919@naver.com", 
+      "mobile": "01074257919", 
+      "name": "\uc1a1\uc9c0\ud6c8", 
+      "password": "$2a$12$1ITQqIyJdWzxBylg/kJrG./GzaUdTLVCZIEzzLXipY37XUcSPc4ui", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc138\uc0c1\uc740 2\ub4f1\uc744 \uae30\uc5b5\ud574 \uc8fc\uc9c0 \uc54a\uc544"
+    }, 
+    {
+      "email": "junhee428@naver.com", 
+      "mobile": "01089224827", 
+      "name": "\uc774\uc900\ud76c", 
+      "password": "$2a$12$nOQBVhpd4IXt/kj9GQdpiO5DSyKyqCIklELL6qDhJZIsc8kJDMkse", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc138\uc0c1\uc740 2\ub4f1\uc744 \uae30\uc5b5\ud574 \uc8fc\uc9c0 \uc54a\uc544"
+    }, 
+    {
+      "email": "happilee12@gmail.com", 
+      "mobile": "01056742415", 
+      "name": "\ud55c\ub9ac\uacbd", 
+      "password": "$2a$12$sPftqyAObznP3DW.a2DTw.qzNIVJ3wqRSM7361MymEYlgWmtvK6Ja", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc138\uc0c1\uc740 2\ub4f1\uc744 \uae30\uc5b5\ud574 \uc8fc\uc9c0 \uc54a\uc544"
+    }, 
+    {
+      "email": "rihankim@naver.com", 
+      "mobile": "01066114202", 
+      "name": "\uae40\ub9ac\ud55c", 
+      "password": "$2a$12$UMuvAVOoB7wc53B7mXIkXOqbjLJOeTsCQKiMnAIuNFmw0m7y2zDT6", 
+      "role": "LEADER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc218\uc9c0\uac00\ub2e4\uc12f\uba85!"
+    }, 
+    {
+      "email": "namminkk@naver.com", 
+      "mobile": "01087997090", 
+      "name": "\uae40\ub0a8\ubbfc", 
+      "password": "$2a$12$3ez.YPQU5WWAG9lmgskQTOKlzwTm19rZ8r6c/6k7lSp5CjIUfA4E.", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc218\uc9c0\uac00\ub2e4\uc12f\uba85!"
+    }, 
+    {
+      "email": "thdms1237@naver.com", 
+      "mobile": "01045699507", 
+      "name": "\ubc15\uc18c\uc740", 
+      "password": "$2a$12$gtOSIfdoFAqT84b1Y3LFcOlii4xu6aaRw1c6gxJ.ur0l5Rz.Jjdk.", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc218\uc9c0\uac00\ub2e4\uc12f\uba85!"
+    }, 
+    {
+      "email": "smart0822@gmail.com", 
+      "mobile": "01065893015", 
+      "name": "\ubc15\ud574\uc900", 
+      "password": "$2a$12$bRIFfwNcN570GdPf2Wwl7ex0a2fO4uP3C9g30tsBjzF6wOVebXgp6", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc218\uc9c0\uac00\ub2e4\uc12f\uba85!"
+    }, 
+    {
+      "email": "mindy904@naver.com", 
+      "mobile": "01025517304", 
+      "name": "\ubc15\ud61c\ubbfc", 
+      "password": "$2a$12$G9hnPgf5gyJvYPz5FTOWg.ctu0Ov.1kyxqsGpxXmKjk5HQ7.bABr6", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc218\uc9c0\uac00\ub2e4\uc12f\uba85!"
+    }, 
+    {
+      "email": "jws6870@naver.com", 
+      "mobile": "01051216870", 
+      "name": "\uc870\uc131\uc6d0", 
+      "password": "$2a$12$BMcddJ2ORmfeQB71UBGlRuREbgA/MkxtNuJZCo7FWLJglg3AQvDAu", 
+      "role": "USER", 
+      "school": "\uace0\ub824\ub300\ud559\uad50", 
+      "team": "\uc218\uc9c0\uac00\ub2e4\uc12f\uba85!"
+    }, 
+    {
+      "email": "jwchoi0129@gmail.com", 
+      "mobile": "01046187334", 
+      "name": "\ucd5c\uc7ac\uc6c5", 
+      "password": "$2a$12$yQAKqzs.ioQ/CUcyXoXW0O1HbrHqa5nlWzye3V08ZTpffel.mVOfq", 
+      "role": "LEADER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "kaangbba@gmail.com", 
+      "mobile": "01031994129", 
+      "name": "\uac15\ubbfc\uacbd", 
+      "password": "$2a$12$Fqnw4WVMeY2n/TMPTj/VduavTjR18VTSv5XPh.UzG.MUoYU9k1dhu", 
+      "role": "USER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "seean21@naver.com", 
+      "mobile": "01043227030", 
+      "name": "\uae40\uc0c8\uc544\ub098", 
+      "password": "$2a$12$Gg7IXEugwDXR.51pgpDnCO88l3/klLcZpUvDwM.Mhon7rT0YQWMhK", 
+      "role": "USER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "urakim2266@gmail.com", 
+      "mobile": "01042332266", 
+      "name": "\uae40\uc720\ub77c", 
+      "password": "$2a$12$o1GNyITQlrByWDrhIwgLoui7L/AX.2coULeJYTuWwABGGAW5MbKlG", 
+      "role": "USER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "yourbest.kim@gmail.com", 
+      "mobile": "01031791590", 
+      "name": "\uae40\ud55c\uc900", 
+      "password": "$2a$12$4uvu.0flgrqQEFEbs1a6P.IIa9RubJZjDNcMGOa6e75QiFZj7M.xq", 
+      "role": "USER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "no_oo@naver.com", 
+      "mobile": "01051225041", 
+      "name": "\ub178\uad11\ud6c8", 
+      "password": "$2a$12$Z.1wK/DoCOyd9nDM4XqDqecUm2KbRS8UK1MRn823K0KLnmABmNQbm", 
+      "role": "USER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "yuda_@naver.com", 
+      "mobile": "01073317584", 
+      "name": "\ucd5c\uc6d0\uc9c4", 
+      "password": "$2a$12$S1ixXsxRnt76.aWwBIYRuu5Ks2uGAuhrrT1T8yZoLIYoa4vOS.KNK", 
+      "role": "USER", 
+      "school": "\uad6d\ubbfc\ub300\ud559\uad50", 
+      "team": "\ub098\ub3c4 7\u3150\ubc1c\uc790\ub2e4"
+    }, 
+    {
+      "email": "woojong610@gmail.com", 
+      "mobile": "01098044004", 
+      "name": "\uae40\uc6b0\uc815", 
+      "password": "$2a$12$v2TIm.z4elPJGZ5S6hY3uumXlCuT.hLf/9w/FESoe0U6asp5YNN2e", 
+      "role": "LEADER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ub2e8\ub514"
+    }, 
+    {
+      "email": "bkr105@naver.com", 
+      "mobile": "01031926744", 
+      "name": "\ubc15\uae30\ub839", 
+      "password": "$2a$12$OuxOIT9P67ukM168n8xNauYqJMo8otc2l7qqorT6DE461OE.Mg5ie", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ub2e8\ub514"
+    }, 
+    {
+      "email": "simpson1757@gmail.com", 
+      "mobile": "01030380574", 
+      "name": "\ubc15\ud615\uaddc", 
+      "password": "$2a$12$YttRXPjaTQg/R9JXl8VqMeSvTPhk/ArbjJf5X4FqAgx9V6ZQO5K4C", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ub2e8\ub514"
+    }, 
+    {
+      "email": "yubin123m@naver.com", 
+      "mobile": "01029914373", 
+      "name": "\uc774\uc720\ube48", 
+      "password": "$2a$12$gj6T/ETCqvXDK08lPT5jVeaE8k.GgEVtvhiJXEFtruO9O8JttT8ja", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ub2e8\ub514"
+    }, 
+    {
+      "email": "egyeore@gmail.com", 
+      "mobile": "01033669612", 
+      "name": "\uc774\uc885\ud55c", 
+      "password": "$2a$12$MqYbx9PHQqOAz5kUuEH.mOmBExdlL4.KMSoxMgRW9yzFVQljqrrDy", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ub2e8\ub514"
+    }, 
+    {
+      "email": "dudfhd705@gmail.com", 
+      "mobile": "01036047237", 
+      "name": "\ud669\uc601\ub871", 
+      "password": "$2a$12$DX31/amMBP.UIbFuo/Knh.lHE1sYNQ7.JzW2kw4gmS4DIrKMq5eee", 
+      "role": "LEADER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "eksrhdqn1@gmail.com", 
+      "mobile": "01064305612", 
+      "name": "\uae40\uc5f0\uc6b0", 
+      "password": "$2a$12$1oOFiBqABm4TDug9c9HtP.ubJ2gMjU3ov5bw0LkxKgpml7D9jCoUy", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "k4313107@naver.com", 
+      "mobile": "01058004245", 
+      "name": "\uae40\uc720\ub355", 
+      "password": "$2a$12$l4S2.D4A0JG5D7Dk5xyS/e/MNjQ1yKkju7jOW/ULQB7lfHDCeJXyC", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "seunghyun257@naver.com", 
+      "mobile": "01099178998", 
+      "name": "\ubb38\uc2b9\ud604", 
+      "password": "$2a$12$vL5WL8vmuwe5t.xJ3sWLo.tZaCqu9fmxnoR8Riyz78CepI4HHyty6", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "hsq2031@gmail.com", 
+      "mobile": "01020310880", 
+      "name": "\ubc15\uc0c1\ubc94", 
+      "password": "$2a$12$10uO0E9SFFF7VVF6JaeQEO.NDuHGiJYulaQtaW2wCn8WUuKnrqBiS", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "shs4849@naver.com", 
+      "mobile": "01050509286", 
+      "name": "\uc2e0\ud76c\uc11d", 
+      "password": "$2a$12$rKBorJQw8Z1j2m5UA4jEQOd39X/Ol1iy6BsddvG4FulFDPYtiTefy", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "nownah90@gmail.com", 
+      "mobile": "01073214002", 
+      "name": "\ud55c\uc7ac\uc6d0", 
+      "password": "$2a$12$L20vIYa7.PKsqaAswcy98eNcsalL3z.hVHhyTyOGmLKr0Di0b6MYy", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774\uacf0\ucc98\ub7fc LikeBear"
+    }, 
+    {
+      "email": "leinaere@naver.com", 
+      "mobile": "01054862041", 
+      "name": "\uc774\ud76c\uc9c4", 
+      "password": "$2a$12$G.Z0WpEE49WXx1R6IRKWlemtJzOLvxk7JqK6SDnT0jXSiWZ5Py8de", 
+      "role": "LEADER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ud5ec\ub85c \ub77c\uc774\uc5b8! Hello Lion!"
+    }, 
+    {
+      "email": "kyt4194@naver.com", 
+      "mobile": "01067764194", 
+      "name": "\uae40\uc601\ud0c1", 
+      "password": "$2a$12$Vk0Hr1t3PWWX19vHTwVmn.SWmyjU5eL.99tqQ1JQx19F2fMw/fCz6", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ud5ec\ub85c \ub77c\uc774\uc5b8! Hello Lion!"
+    }, 
+    {
+      "email": "zaxscd_@naver.com", 
+      "mobile": "01090210929", 
+      "name": "\uc591\uc218\uc778", 
+      "password": "$2a$12$P/aepuPy6wwYveaybuToVOyIe2g3bCPaVuSdMKKH1.OGZ9Zi3Ae42", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ud5ec\ub85c \ub77c\uc774\uc5b8! Hello Lion!"
+    }, 
+    {
+      "email": "jjs712@naver.com", 
+      "mobile": "01047587538", 
+      "name": "\uc804\uc900\uc218", 
+      "password": "$2a$12$JmRkjKXh2p2Ave9UuRSx2ubhBZ1gKyl3Rt/tkDa.76brAWCgavplK", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ud5ec\ub85c \ub77c\uc774\uc5b8! Hello Lion!"
+    }, 
+    {
+      "email": "mandoo020374@gmail.com", 
+      "mobile": "01086677462", 
+      "name": "\uc870\ubbfc\uc218", 
+      "password": "$2a$12$Jhvnss9wTcZRr0OAeoCRTOb1c87L6lDdRe2Gu3l1kcZbh6uuln/pK", 
+      "role": "USER", 
+      "school": "\ub2e8\uad6d\ub300\ud559\uad50", 
+      "team": "\ud5ec\ub85c \ub77c\uc774\uc5b8! Hello Lion!"
+    }, 
+    {
+      "email": "hkwoo7788@hanmail.net", 
+      "mobile": "01071656801", 
+      "name": "\ubc15\uc720\uc9c4", 
+      "password": "$2a$12$5cmpF4X2ZKxsPh7zZIVD1eIw5vrzgJ2KyP3Lw1tubbfx8EiAcMXGe", 
+      "role": "LEADER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub5bd\ub760\uc57c\uc791\ub140"
+    }, 
+    {
+      "email": "cieloee@naver.com", 
+      "mobile": "01057731176", 
+      "name": "\uc11c\ubbfc\uc11c", 
+      "password": "$2a$12$.TuIhK1C8kBTgrHI5VH5neZkF8dphLhBdfwnAeQu/8tZxzasKXnhC", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub5bd\ub760\uc57c\uc791\ub140"
+    }, 
+    {
+      "email": "dksektha0215@naver.com", 
+      "mobile": "01051033627", 
+      "name": "\uc548\ub2e4\uc19c", 
+      "password": "$2a$12$7k6OhDUE755/gaeg.cwJ9OT490NcwhD9mUWP3wV.5X.vYnuq3zgWe", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub5bd\ub760\uc57c\uc791\ub140"
+    }, 
+    {
+      "email": "tjsal7414@naver.com", 
+      "mobile": "01030388098", 
+      "name": "\uc6b0\uc5f0\uc11c", 
+      "password": "$2a$12$c6JZOO2yl6XjV1CLHxzYw.LQiAwjnr9AV4VJgNLaB0U5qUPOBKoum", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub5bd\ub760\uc57c\uc791\ub140"
+    }, 
+    {
+      "email": "wldmlwls93@naver.com", 
+      "mobile": "01066226681", 
+      "name": "\uc9c0\uc758\uc9c4", 
+      "password": "$2a$12$DMOwlOVgTzbu8dy0T.Vlc.2qW0y66lRbIvahBgfQ5KpeiOXSn6rPa", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub5bd\ub760\uc57c\uc791\ub140"
+    }, 
+    {
+      "email": "joay0410@naver.com", 
+      "mobile": "01081775674", 
+      "name": "\uc870\uc544\uc601", 
+      "password": "$2a$12$QM7BnrAYX7dJ5Z0Yy1d67en3ee.ggrOCrhdhWOGshV/TUHZnJxGYe", 
+      "role": "LEADER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc138\ub07c"
+    }, 
+    {
+      "email": "nidkys@naver.com", 
+      "mobile": "01074581579", 
+      "name": "\uae40\uc601\uc120", 
+      "password": "$2a$12$YsRhqm/BBOrst4pvi6HBh.OA3K0FaOnApeHEF4RUwAptoi.AZkq8O", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc138\ub07c"
+    }, 
+    {
+      "email": "tjsdkz3@naver.com", 
+      "mobile": "01038406792", 
+      "name": "\uc774\uc120\uc544", 
+      "password": "$2a$12$hvoktzhKtEKnU8jCHbWAcODokWN8fOmP09KZfRETHbR./3STlhr9e", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc138\ub07c"
+    }, 
+    {
+      "email": "sojung9264@naver.com", 
+      "mobile": "01071594407", 
+      "name": "\uc774\uc18c\uc815", 
+      "password": "$2a$12$/qypKCCXk5nHDKtZlWY/WuAifMo6Htz/5M5oxf0B6jL/f6zeWmIGy", 
+      "role": "USER", 
+      "school": "\ub355\uc131\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc138\ub07c"
+    }, 
+    {
+      "email": "geniushhhh@naver.com", 
+      "mobile": "01054778577", 
+      "name": "\ud55c\uc9c4\ud76c", 
+      "password": "$2a$12$clYnesMFfqOx7sRkb9/eHexsRs6cn.w5rUQYpkBCW7D.zt.k/B8bi", 
+      "role": "LEADER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "kghgy4022@gmail.com", 
+      "mobile": "01050600422", 
+      "name": "\uad8c\uae30\ud604", 
+      "password": "$2a$12$cxGNImOz4FNhXZkfng.tRe1k6SDh3l8jPOL9gCIS0YXjaUwgLZsf.", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "rlaqlcsk113@hanmail.net", 
+      "mobile": "01048103337", 
+      "name": "\uae40\ube5b\ub098", 
+      "password": "$2a$12$kCvK.Hfey4xMk1fcm.nns.qON7mrqG0UaeRH3ZOBhmyJFDatWgR32", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "spb828@naver.com", 
+      "mobile": "01071359955", 
+      "name": "\ubc15\ud604\ubbfc", 
+      "password": "$2a$12$MdYSL7U.unh4VFRpDJ/kFuo3GaLlJPa3CBf9Sdk3m0hHgsGwOrJdm", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "keekee0629@naver.com", 
+      "mobile": "01091604990", 
+      "name": "\ubc31\uae30\uc6c5", 
+      "password": "$2a$12$J3bzk5IRZbx7/h5gDRMI3eDy7yL00uqYGWxZdwIQKPZayFd3Qre1a", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "yyyyysss@naver.com", 
+      "mobile": "01040940480", 
+      "name": "\uc724\uc138\uc601", 
+      "password": "$2a$12$tl0NL.8RTCrR0r2s1u9ydu9Jw00ZhRFqVS.hKZqK14vC0ShkfLIha", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "jyw0904@hanmail.net", 
+      "mobile": "01039357952", 
+      "name": "\uc815\uc608\uc6d0", 
+      "password": "$2a$12$fknakrqtyNoPTn0u22l/8u4Z6Mw6soJy5BWF8zmRlUbChKnicXC5u", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "chum135@naver.com", 
+      "mobile": "01091850311", 
+      "name": "\ucd5c\ubcd1\uc7ac", 
+      "password": "$2a$12$uJafdZXkfPCi0dSNdgtvmOWjCj/4jiIj8z2YcSjtjYiICeP0CHmwG", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "2\uac70\uc0ac\uc790"
+    }, 
+    {
+      "email": "skyhan1106@naver.com", 
+      "mobile": "01052489085", 
+      "name": "\uc804\ubbfc\ud638", 
+      "password": "$2a$12$RizaTYsrE8t258hMQaIgRe75G3JH0Kf.N5Ji8IQyRkt6aNo1Lfrqe", 
+      "role": "LEADER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\ub300\uc7a5\ub2d8\ucd95\uc9c0\ubc95\uc4f0\uc2e0\ub2e4"
+    }, 
+    {
+      "email": "agro_asian@naver.com", 
+      "mobile": "01072430707", 
+      "name": "\ubcc0\uc9c0\uc12d", 
+      "password": "$2a$12$3HNUeYLs3OUW.1FEjV9ML.b3ps/jqA8Q2rqU/FuGjl3dTa507FtHi", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\ub300\uc7a5\ub2d8\ucd95\uc9c0\ubc95\uc4f0\uc2e0\ub2e4"
+    }, 
+    {
+      "email": "ehddn22@hanmail.net", 
+      "mobile": "01041162379", 
+      "name": "\uc2e0\ub3d9\uc6b0", 
+      "password": "$2a$12$HvLJK1UDlzLvORko7PpK1Of2x96NMn2UjpbBuzupVfvUpj5HFmhru", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\ub300\uc7a5\ub2d8\ucd95\uc9c0\ubc95\uc4f0\uc2e0\ub2e4"
+    }, 
+    {
+      "email": "gudsh1@dreamwiz.com", 
+      "mobile": "01097777666", 
+      "name": "\uc774\ud615\ub85c", 
+      "password": "$2a$12$vOR0Sv5CSY3XsHVRIptLIeScmVXwVcnxUEffOlIAlQ95DpLCJmnT2", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\ub300\uc7a5\ub2d8\ucd95\uc9c0\ubc95\uc4f0\uc2e0\ub2e4"
+    }, 
+    {
+      "email": "desire.choreal@gmail.com", 
+      "mobile": "01068869828", 
+      "name": "\uc870\uc9c0\ud61c", 
+      "password": "$2a$12$FLRc14HjiLgAqrM6hMJZwuS2NrBEF9.ayIlgYcwaSTEKuG6Vj/.9m", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\ub300\uc7a5\ub2d8\ucd95\uc9c0\ubc95\uc4f0\uc2e0\ub2e4"
+    }, 
+    {
+      "email": "sinhwaspin@naver.com", 
+      "mobile": "01043482270", 
+      "name": "\ubc15\uc885\uc5f0", 
+      "password": "$2a$12$XQGPmNbmLH/HiNscF6nR4.mZvTe08BvqfwfNUs1vWJaMuaOu.dVHu", 
+      "role": "LEADER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc54c\ucc21\uaddc"
+    }, 
+    {
+      "email": "iamjinny92@naver.com", 
+      "mobile": "01039021048", 
+      "name": "\uae40\uc9c0\uc778", 
+      "password": "$2a$12$h9hBLgjWF3Y.sgQgmFqWv.Fbwj/4cDQnkUy74j9eIgvhEc7c./39S", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc54c\ucc21\uaddc"
+    }, 
+    {
+      "email": "iamjunny91@naver.com", 
+      "mobile": "01094869259", 
+      "name": "\uae40\ud76c\uc900", 
+      "password": "$2a$12$d1BTEKSxXIZuB1V68uFy3uYvEiv7GScdNc1Miqk6p37xODB7KJnoW", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc54c\ucc21\uaddc"
+    }, 
+    {
+      "email": "lhoj4228@hanmail.net", 
+      "mobile": "01090051044", 
+      "name": "\uc774\ud638\uc900", 
+      "password": "$2a$12$OppPnXJlHU9LN51XHdpYMOwWdK6KtvOLsaJen9c1kdiQ4o214XFZa", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc54c\ucc21\uaddc"
+    }, 
+    {
+      "email": "iamsunny91@naver.com", 
+      "mobile": "01030117097", 
+      "name": "\uc815\uc720\uc120", 
+      "password": "$2a$12$.HIE/J2sCVdwwjII0cOTcOVxCeFr0a2SXSV28yEbvG3ZgW/pR.9ga", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc54c\ucc21\uaddc"
+    }, 
+    {
+      "email": "gurwlszzang@naver.com", 
+      "mobile": "01029307267", 
+      "name": "\uc870\ud601\uc9c4", 
+      "password": "$2a$12$mznhCtAwJVVxFNeJ7/Z/U.KjrlXPmY2JjAjX7/Vd2MMSrwoqjNh8e", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc54c\ucc21\uaddc"
+    }, 
+    {
+      "email": "j2ffrey@gmail.com", 
+      "mobile": "01071216013", 
+      "name": "\uc774\ucc3d\uc6b0", 
+      "password": "$2a$12$zP9N43x6brFuvT32aZmKnetc7KwtjiZPTpxCbOh6NFOpk..odsI56", 
+      "role": "LEADER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc7ac\ucca0\uc774\ub294\ucf54\ub07c\ub9ac\ub97c\ud0c0\uace0"
+    }, 
+    {
+      "email": "yhk1038@hanmail.net", 
+      "mobile": "01024824541", 
+      "name": "\uae40\uc6a9\ud604", 
+      "password": "$2a$12$FK9WLmKmfdq5202hXo6N/eSoYeQfZvI.UW7ZCWv92bcAtgeOwSiWq", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc7ac\ucca0\uc774\ub294\ucf54\ub07c\ub9ac\ub97c\ud0c0\uace0"
+    }, 
+    {
+      "email": "jinyee0829@naver.com", 
+      "mobile": "01071663886", 
+      "name": "\ub958\uc9c4\uc774", 
+      "password": "$2a$12$wZ26Lbdclano76BLDnZjF.uqkW3rh11i7P152NoDImBSSTmwmmt0S", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc7ac\ucca0\uc774\ub294\ucf54\ub07c\ub9ac\ub97c\ud0c0\uace0"
+    }, 
+    {
+      "email": "cnrzo114@naver.com", 
+      "mobile": "01026216754", 
+      "name": "\uc774\uc7ac\ucca0", 
+      "password": "$2a$12$LeVOdBCOV4liYHsvYdDbxebU58B5LVOgQNG6kGex/SL6O0de4wgQq", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc7ac\ucca0\uc774\ub294\ucf54\ub07c\ub9ac\ub97c\ud0c0\uace0"
+    }, 
+    {
+      "email": "hwang920@naver.com", 
+      "mobile": "01046135755", 
+      "name": "\ud669\uc720\uc815", 
+      "password": "$2a$12$LcpwOYsCWGoluDBkQZ.TLuOFLAhvtSkvGtCIQoOBzqPqpEHcV1TJm", 
+      "role": "USER", 
+      "school": "\ub3d9\uad6d\ub300\ud559\uad50", 
+      "team": "\uc7ac\ucca0\uc774\ub294\ucf54\ub07c\ub9ac\ub97c\ud0c0\uace0"
+    }, 
+    {
+      "email": "sunssun2@naver.com", 
+      "mobile": "01030344332", 
+      "name": "\ucd5c\uc724\uc120", 
+      "password": "$2a$12$qBYY29kiyStv1iif8TK.6eVpmeopU7ubyQTHrcq4tXTjDtrYCETei", 
+      "role": "LEADER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uad1c\ucc2e\uc544\uc694?\ub9ce\uc774\ub180\ub790\uc870"
+    }, 
+    {
+      "email": "mongji95@naver.com", 
+      "mobile": "01023990241", 
+      "name": "\uae40\uc5f0\uc9c0", 
+      "password": "$2a$12$Hmcel5ZbRH6TId6UhfJ9AOu/Bo8DJCDY0oWhc9TzMhLbqnlUdVCUy", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uad1c\ucc2e\uc544\uc694?\ub9ce\uc774\ub180\ub790\uc870"
+    }, 
+    {
+      "email": "goilria2@gmail.com", 
+      "mobile": "01053858099", 
+      "name": "\uc774\ubcf4\ubbfc", 
+      "password": "$2a$12$4lblLoK9jYSLVMQPamTPCO.h1oiYdYgmyr/EXFPArcYVBniIixqwu", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uad1c\ucc2e\uc544\uc694?\ub9ce\uc774\ub180\ub790\uc870"
+    }, 
+    {
+      "email": "complete@hanmail.net", 
+      "mobile": "01056781857", 
+      "name": "\uc815\ud61c\uc778", 
+      "password": "$2a$12$O/ikESzb3k5l2tD0W5aRW.FkjWYBdN8PcdBVI4krFxgDwiryJGPsW", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uad1c\ucc2e\uc544\uc694?\ub9ce\uc774\ub180\ub790\uc870"
+    }, 
+    {
+      "email": "dmsql0816@daum.net", 
+      "mobile": "01028312385", 
+      "name": "\ucd5c\ud61c\uc625", 
+      "password": "$2a$12$yvRl.f8wWkwdaYdVHHaOHePE6DyOSmKIt1dBtrc67y.ChGM0Xno8m", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uad1c\ucc2e\uc544\uc694?\ub9ce\uc774\ub180\ub790\uc870"
+    }, 
+    {
+      "email": "hyhyhhyy@naver.com", 
+      "mobile": "01031232578", 
+      "name": "\ud669\uc720\uc9c4", 
+      "password": "$2a$12$/97wU2jpnXYr2zGbW1VwtuuF3e/Wqnnkjk6nlNafssPvJ9FC/CwTa", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uad1c\ucc2e\uc544\uc694?\ub9ce\uc774\ub180\ub790\uc870"
+    }, 
+    {
+      "email": "jyjlove7171@naver.com", 
+      "mobile": "01033163563", 
+      "name": "\uc815\uc720\uc9c4", 
+      "password": "$2a$12$DkU/u5B01lgHSX8dH.gIJ.j35LksK4z7inP3KzFSJvvGwddk9gGvu", 
+      "role": "LEADER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc628\ud798\uc744\ub2e4\ud558\uba74\ub450\ud76c\uac00\ub3c4\uc640\uc8fc\uc870"
+    }, 
+    {
+      "email": "gmlwlslgml@gmail.com", 
+      "mobile": "01045449044", 
+      "name": "\uae40\ud76c\uc9c4", 
+      "password": "$2a$12$aZA66UE9Mcxams9wnmSmD.7kmyDb0mPfZ33CAIYXs7MQrshL3KlDO", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc628\ud798\uc744\ub2e4\ud558\uba74\ub450\ud76c\uac00\ub3c4\uc640\uc8fc\uc870"
+    }, 
+    {
+      "email": "m_aa7_m@naver.com", 
+      "mobile": "01083226694", 
+      "name": "\ucd5c\uc9c0\uc601", 
+      "password": "$2a$12$1ZLo0gqmQ3a1PCENsxvGbejJOzI7UcPcQaYi2bPzkoLFNnEWBnpwm", 
+      "role": "USER", 
+      "school": "\ub3d9\ub355\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc628\ud798\uc744\ub2e4\ud558\uba74\ub450\ud76c\uac00\ub3c4\uc640\uc8fc\uc870"
+    }, 
+    {
+      "email": "kmtae0701@naver.com", 
+      "mobile": "01074977562", 
+      "name": "\uae40\ubb38\ud0dc", 
+      "password": "$2a$12$lAzl7uwHRAzHqWyCKWOE1uMltP49fpGjtsQdFSEqU.aerdMZcIG0y", 
+      "role": "LEADER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "kodonghyun1209@gmail.com", 
+      "mobile": "01063191013", 
+      "name": "\uace0\ub3d9\ud604", 
+      "password": "$2a$12$sysxtDlc.DuTVfeDB747U.hZN0g/IoDEvzxanr8vBQkrFI4sTYAkS", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "dgmsky1@gmail.com", 
+      "mobile": "01027897810", 
+      "name": "\uad6c\uc9c4\ud604", 
+      "password": "$2a$12$D3.uVcZYViu0cKZWMymD6.1eZvJgtocDL7MkmtsX1FqthzNwy/tbS", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "kjongwona@naver.com", 
+      "mobile": "01020467067", 
+      "name": "\uae40\uc885\uc6d0", 
+      "password": "$2a$12$CcAAKwjVsJfpSiMjCO9W5uMOnmoYzbGpUfUe9W3ZMKvtrHoW5tbrS", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "wornrgoal17@naver.com", 
+      "mobile": "01047070279", 
+      "name": "\ubc15\uc7ac\uad6d", 
+      "password": "$2a$12$qVO1MDo2SeDTC5cBrNR9lu/x8Shv0EdKSRKdaRos50ym5.k/iX3EO", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "1st.jha@gmail.com", 
+      "mobile": "01042423231", 
+      "name": "\uc11c\uc815\ud654", 
+      "password": "$2a$12$u77gR3FWqrxY2G8HUU0hmuRZdjoSLH4Vsl7.39DKjPh1.I3y99Kb2", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "ghrud0520@naver.com", 
+      "mobile": "01040167008", 
+      "name": "\uc131\ud638\uacbd", 
+      "password": "$2a$12$DWn7UXPCBExFw63HRInG9OjUtpotI0/dca4VDnYXTnVBX.RX1ogZS", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "jihsss@naver.com", 
+      "mobile": "01098761223", 
+      "name": "\uc815\uc778\ud601", 
+      "password": "$2a$12$iIla8XnXhgQItjqHwP9pzOfi2/QRdZ9gTcRic2xs3BXO5N23tHmw.", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "ghwldn@gmail.com", 
+      "mobile": "01051345038", 
+      "name": "\ud64d\uc9c4\uc6c5", 
+      "password": "$2a$12$6Yurfk5NpyRjxTRpJ5PCl.4zsEJS1Z47Qh2/SG5vcqANXLqBMOO1u", 
+      "role": "USER", 
+      "school": "\ubd80\uc0b0\ub300\ud559\uad50", 
+      "team": "\ubd80\uc0b0\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "sese7406@naver.com", 
+      "mobile": "01071573100", 
+      "name": "\uae40\uacbd\ubbfc", 
+      "password": "$2a$12$yzoNnFjmsN5GhCj.j9BEA.r8/D3Ce50yaBNCOeIikkST1cXIbi52C", 
+      "role": "LEADER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "--\uc808\ucde8\uc120--"
+    }, 
+    {
+      "email": "man8918@naver.com", 
+      "mobile": "01063981736", 
+      "name": "\uae40\ud604\uc6b0", 
+      "password": "$2a$12$FvT7HAqKe/LNHtSv0KWeduzJhmKY6DAQ6QCAfKmcfMrv9cB1rF8DO", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "--\uc808\ucde8\uc120--"
+    }, 
+    {
+      "email": "gamchanr@gmail.com", 
+      "mobile": "01034840123", 
+      "name": "\uc11c\uc0c1\ubc94", 
+      "password": "$2a$12$w4HJTTtZtyHqo/iANa6VAegZR8KDAHNZO0DhTpSOg4tJOyvyFJWQK", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "--\uc808\ucde8\uc120--"
+    }, 
+    {
+      "email": "neovansoarer@gmail.com", 
+      "mobile": "01087970240", 
+      "name": "\uc720\ud0dc\uc601", 
+      "password": "$2a$12$vJTxKDeSQRoteu7mt1mlc.NwO6JeWLIVfetNJV19KS7YdCGP1H3P2", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "--\uc808\ucde8\uc120--"
+    }, 
+    {
+      "email": "ka6516@gmail.com", 
+      "mobile": "01095686516", 
+      "name": "\uc815\ud5cc\uc2dd", 
+      "password": "$2a$12$m2r/xKUoueD2d7P2SCPkjuOLn//q1wPqV6.eaPxpbqOQZG6lxs17u", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "--\uc808\ucde8\uc120--"
+    }, 
+    {
+      "email": "junejc0613@naver.com", 
+      "mobile": "01027352393", 
+      "name": "\uc8fc\uc740\ud61c", 
+      "password": "$2a$12$ukxPieJt7Tu29QNCaRLUee84Fy48VxiBro6I1kOSSOROCU9WKJkyG", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "--\uc808\ucde8\uc120--"
+    }, 
+    {
+      "email": "lasifcbftod@gmail.com", 
+      "mobile": "01077652237", 
+      "name": "\uace0\uc6d0\uc11d", 
+      "password": "$2a$12$KAU8ylfilDbznNFM/UNeL.Pr11h/NHtZQYGbCPmcpGUuTjzCGmyGK", 
+      "role": "LEADER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "1"
+    }, 
+    {
+      "email": "arlisiss@gmail.com", 
+      "mobile": "01089228938", 
+      "name": "\uae40\uc608\ud604", 
+      "password": "$2a$12$voDqy8AWYweTbykWMY1MSe4sJAd4H1jk1BrPZW2mZwTvdtGuR6xd.", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "1"
+    }, 
+    {
+      "email": "chris.park0701@gmail.com", 
+      "mobile": "01039100107", 
+      "name": "\ubc15\ud55c\ubbfc", 
+      "password": "$2a$12$NntO28q14CWAky2.vTDnkeMIrA7ocqVBcjDupgHHLzNbTNZ8tOyQu", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "1"
+    }, 
+    {
+      "email": "eic1223@naver.com", 
+      "mobile": "01093819432", 
+      "name": "\uc6d0\ub3d9\uc778", 
+      "password": "$2a$12$Z2zY/IcDVghQI.SQWeiAW.Wep5T/TBUqdVwuHheLC0HKghtPyfQC2", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "1"
+    }, 
+    {
+      "email": "denimmania88@naver.com", 
+      "mobile": "01077706558", 
+      "name": "\uc774\ucc3d\ud6c8", 
+      "password": "$2a$12$PXIPTcvrGGrC2a5yyBYEkuEpuRdpi8CsenQBBCiRxh7KeXRD7Ugge", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "1"
+    }, 
+    {
+      "email": "procyon91@gmail.com", 
+      "mobile": "01067905579", 
+      "name": "\uc1a1\uc724\uc11d", 
+      "password": "$2a$12$YA7DwmqTlTJFKx.8cLPNHeOxDQAuEsWs5Tiuu.G7sLGsLHIDWIYs6", 
+      "role": "LEADER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "minjun.raphael.kim@gmail.com", 
+      "mobile": "01032372703", 
+      "name": "\uae40\ubbfc\uc900", 
+      "password": "$2a$12$xpBZ49e8CnINwpzwS.1VYOLz4VRbHa6YXCDgqt.W.ZEQUtN/5M7v.", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "tzs930@gmail.com", 
+      "mobile": "01067777908", 
+      "name": "\uc11c\uc11d\uc778", 
+      "password": "$2a$12$5HnmTcshK9npruxBv3UgR.7V6SJpeaB3LGE5ut/UW7ZGMVNILYIsC", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "jihoono95@hanmail.net", 
+      "mobile": "01024347085", 
+      "name": "\uc624\uc9c0\ud6c8", 
+      "password": "$2a$12$Eqzxefq8A1rqdApeOiwfSewEDYGaI1o3JDCYKpmR3ifpl7i3Ww4jG", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "lyi5202@naver.com", 
+      "mobile": "01059675202", 
+      "name": "\uc774\uc608\uc778", 
+      "password": "$2a$12$GQghNbeyKGF8kiR9zkVu0.kKOrbO04ETKrvkeJc3hctfNhnZk03Aa", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "jin3216@naver.com", 
+      "mobile": "01056636405", 
+      "name": "\uc774\uc9c4\ub155", 
+      "password": "$2a$12$foV1szyREBTcOpumcdf1tu6rNXJv4YAg6xvDZNMYewG7MSe4grI06", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "2"
+    }, 
+    {
+      "email": "patoto@naver.com", 
+      "mobile": "01042003036", 
+      "name": "\uae40\uc9c0\uc77c", 
+      "password": "$2a$12$hGz.o2QTVFifhDNq7bRegeaLGG18pe9iHDIajBb9zBbU93SitDN4i", 
+      "role": "LEADER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "5"
+    }, 
+    {
+      "email": "woojunepark@gmail.com", 
+      "mobile": "01023592971", 
+      "name": "\ubc15\uc6b0\uc900", 
+      "password": "$2a$12$oWna2edGH2fwcOcWIRP3DuC1ajlbDtfxrcK86TvlwlMo4SUcFcpUu", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "5"
+    }, 
+    {
+      "email": "niu21@naver.com", 
+      "mobile": "01090411898", 
+      "name": "\uc720\ubcf4\uc724", 
+      "password": "$2a$12$BP1AqvvVZodB81rNLljEge2i9wuqHD0j2BkC1gNRKLRy783xfLcYC", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "5"
+    }, 
+    {
+      "email": "ioc1234@nate.com", 
+      "mobile": "01027466978", 
+      "name": "\uc774\uacbd\ubbfc", 
+      "password": "$2a$12$/DQ.NwHDBuT5XI3YVEqdmO6m2tysN6QJAzVPIw1unJI3frhWzszRa", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "5"
+    }, 
+    {
+      "email": "a960401sogang@gmail.com", 
+      "mobile": "01026264973", 
+      "name": "\uc774\ucc2c\ud558", 
+      "password": "$2a$12$ZPanF60goQvDeJjDzWir7.6oiIql4iHNgsTiw61Knh5ufm0qUH8WW", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "5"
+    }, 
+    {
+      "email": "hcn1519@gmail.com", 
+      "mobile": "01037004780", 
+      "name": "\ud64d\ucc3d\ub0a8", 
+      "password": "$2a$12$vLBf2kLn5v5Xw33eYikU8OIvWsLpjuFJAudSa4ev6TwFkKtaxLQyO", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "5"
+    }, 
+    {
+      "email": "ajha1945@naver.com", 
+      "mobile": "01020647716", 
+      "name": "\uc548\uc7ac\ud6c8", 
+      "password": "$2a$12$BUHi8uCjgVJdoo8HsPjWl.5ALONrikLJObB9ZFgVL.N4/bf4izOMa", 
+      "role": "LEADER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "6"
+    }, 
+    {
+      "email": "sujikim719@gmail.com", 
+      "mobile": "01054788456", 
+      "name": "\uae40\uc218\uc9c0", 
+      "password": "$2a$12$iItQ9rFL3Y9aMu.7qPL54.uHKsJDNZ1E0GisIw96AkcDrhIhG2Oge", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "6"
+    }, 
+    {
+      "email": "hwp0223@gmail.com", 
+      "mobile": "01026049327", 
+      "name": "\ubc15\ud574\uc6d0", 
+      "password": "$2a$12$d0DHgI154RATNYcbNUSCouiOnDqKyg1y7OB53hht8VAU1zm.3uWom", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "6"
+    }, 
+    {
+      "email": "hoon2yy@naver.com", 
+      "mobile": "01045424685", 
+      "name": "\uc624\uc7ac\ud6c8", 
+      "password": "$2a$12$N5oM8mv.EiTiw81BsOt6Eeth3oO4hY6aqGT55g.mF/0f53cdj/QIy", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "6"
+    }, 
+    {
+      "email": "1ina@naver.com", 
+      "mobile": "01033481248", 
+      "name": "\uc774\uc778\uc544", 
+      "password": "$2a$12$AZvcE5vPhgHKlxM/XCyOaO.wwuf7L6yMJUjDfyS0HdgYqKQUbQh9G", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "6"
+    }, 
+    {
+      "email": "epitusjj@gmail.com", 
+      "mobile": "01042384868", 
+      "name": "\uae40\uc7ac\uc900", 
+      "password": "$2a$12$lSuQCIbEmIRbEf7rrHqGMu5kw5UB8htBh0A5/FFAkTaHHb3xCSiVG", 
+      "role": "LEADER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "\ub204\ub098\ub791 \ucf54\ub529\ud560\ub798?"
+    }, 
+    {
+      "email": "dyryou02@naver.com", 
+      "mobile": "01031440558", 
+      "name": "\ub958\ub2e4\uc601", 
+      "password": "$2a$12$SYaBy1qtGm7XCUgeYlFAyOkEhq3ywblhkP0XUp073sC84Sd5/ZeC.", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "\ub204\ub098\ub791 \ucf54\ub529\ud560\ub798?"
+    }, 
+    {
+      "email": "nyongee12@gmail.com", 
+      "mobile": "01040859095", 
+      "name": "\uc774\uc724\ud615", 
+      "password": "$2a$12$3MQcMkbMSYQP77aLEEpnj.Oc5RbtCwzHQHFd8Ha7twoyrBqVz909i", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "\ub204\ub098\ub791 \ucf54\ub529\ud560\ub798?"
+    }, 
+    {
+      "email": "win3034@gmail.com", 
+      "mobile": "01066097177", 
+      "name": "\uc870\uc6d0\uc77c", 
+      "password": "$2a$12$IRoCvlGzDUooEdnrZN9SMulzGQx3vPNmXmockVPBegLqp5K5uzVZe", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "\ub204\ub098\ub791 \ucf54\ub529\ud560\ub798?"
+    }, 
+    {
+      "email": "fran2210@icloud.com", 
+      "mobile": "01045121422", 
+      "name": "\uc870\uc7ac\uc724", 
+      "password": "$2a$12$Cx5yPMM7AqEfCZAPn69n3.Ro0ij9dh3zYJGmdx.8ILmkaX.CN9Wti", 
+      "role": "USER", 
+      "school": "\uc11c\uac15\ub300\ud559\uad50", 
+      "team": "\ub204\ub098\ub791 \ucf54\ub529\ud560\ub798?"
+    }, 
+    {
+      "email": "jhw92228@naver.com", 
+      "mobile": "01043106561", 
+      "name": "\uc8fc\ud604\uc6b0", 
+      "password": "$2a$12$Mw7d8D4q7ItXR90.TgpCs.UjrSODG2J66eaH0FuPykQbyDUR5usmW", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "113305@naver.com", 
+      "mobile": "01040640801", 
+      "name": "\uae40\ubbfc\uc120", 
+      "password": "$2a$12$/NACrHOBZ0cqoscLazWeV.7EBANM7VkjT09p4vsLfTEKP0dLPrdIy", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "force0429@gmail.com", 
+      "mobile": "01062810656", 
+      "name": "\uc190\uc815\uae30", 
+      "password": "$2a$12$REPSb16QBbK8GVc7ThsZGuRdL2HoxTbpIjv4C1csBu3v.Rlk7qmJm", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "naaaarii@gmail.com", 
+      "mobile": "01025765816", 
+      "name": "\uc2e0\ub098\ub9ac", 
+      "password": "$2a$12$uMPkVUUgtglQto4Ks/5dzu6QmGkv8Um7kEnqoGjP86x3nt6uQzInm", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "mickydasin@daum.net", 
+      "mobile": "01098097624", 
+      "name": "\uc774\uc815\ubbfc", 
+      "password": "$2a$12$/WbxMtX81pppLNm3QM7ySelZRtmVtda..QXgA.dOouVUau/2FVoUu", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "dhksh16@daum.net", 
+      "mobile": "01054920822", 
+      "name": "\uc870\uc644\ud638", 
+      "password": "$2a$12$9Hi5NTDxHCculBxPP.H5A.CTk103riiwzuMBJd9tMAYmjYxEe7cEy", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "hsc1027@gmail.com", 
+      "mobile": "01091143428", 
+      "name": "\ud55c\uc2b9\ucca0", 
+      "password": "$2a$12$2xuCvyAxZz.7RGSVbFJp5Ok5ew0hXLs69WUAlqQFY90hxziNqysra", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300\ud559\uad50", 
+      "team": "\uc800\uc2a4\ud2b8\ub450\ud77f"
+    }, 
+    {
+      "email": "jin0902@hanmail.net", 
+      "mobile": "01050279092", 
+      "name": "\uc9c4\ud5a5\uae30", 
+      "password": "$2a$12$hHW3JYgGMiEeyAf7Fuon6.ItXkDbz55DG6hXQXQ.RvjZiAzSYJiHC", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "Aventures"
+    }, 
+    {
+      "email": "kjk328@gmail.com", 
+      "mobile": "01051057286", 
+      "name": "\uace0\uc885\uad6d", 
+      "password": "$2a$12$uFJFM0WXg3LbldoqpYBNBOt6LKLd4NV/kv3tedxQZ/rMWiTPVpn6u", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "Aventures"
+    }, 
+    {
+      "email": "rheazen@gmail.com", 
+      "mobile": "01073573183", 
+      "name": "\ubc15\uc9c0\uc5f0", 
+      "password": "$2a$12$OZi5Z7euUWl6J8f5LzmDw.O1Umo3UiLQ8nvbmkZGYLKlrjE6R638a", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "Aventures"
+    }, 
+    {
+      "email": "yooncobra@gmail.com", 
+      "mobile": "01096193113", 
+      "name": "\uc18c\uc724\uc0c1", 
+      "password": "$2a$12$RQxtmZ3pwAfkhogRmRi5ZO2erVC7JtQ2x7JRuReeNMhHjqowY3lEq", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "Aventures"
+    }, 
+    {
+      "email": "nayeoh@naver.com", 
+      "mobile": "01053311009", 
+      "name": "\uc5ec\uc7ac\uc601", 
+      "password": "$2a$12$9C9mOHaKm1dKk.UFB901q.sxDuD6QnoXFRYB8ANWx2.1U09EwHyPi", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "Aventures"
+    }, 
+    {
+      "email": "yhyungs66@gmail.com", 
+      "mobile": "01063174064", 
+      "name": "\uc724\ud615\uc218", 
+      "password": "$2a$12$Tiq0hilMthS2d4/nosaDF.8ZzZvcnYhJM59fbhIHyue3tm6b6Y3Nm", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "Aventures"
+    }, 
+    {
+      "email": "mogandaz@gmail.com", 
+      "mobile": "01085534465", 
+      "name": "\uc815\uc758\uc9c4", 
+      "password": "$2a$12$EqOS58x4ha79/N3H33OeceqwH5QZQP6e0kdA1a1swteB4/dxclNoO", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "kimkang0907@gmail.com", 
+      "mobile": "01036284587", 
+      "name": "\uae40\uac15\ud604", 
+      "password": "$2a$12$TXR6ptg1Cp8w5czemKnpQegI09BTovGdhlCk1/t3U8dkhGVNcKI86", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "ohippi@snu.ac.kr", 
+      "mobile": "01093181057", 
+      "name": "\uc624\uc8fc\uc601", 
+      "password": "$2a$12$shkTeTTr2G/2IDJCiQKBgexfPoXa5wWsoB/nyCJMnACi1EXbn/W1S", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "wlgmlwlgmlwlgml@gmail.com", 
+      "mobile": "01099619291", 
+      "name": "\uc655\uc9c0\ud76c", 
+      "password": "$2a$12$Zw5tU84nvZDv.4Z.M.zISOGcofBxP.3DwhIu.lAqVAjI6falXN6Xm", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "tiel0306@snu.ac.kr", 
+      "mobile": "01074390306", 
+      "name": "\uc815\ud61c\uc8fc", 
+      "password": "$2a$12$OOh.SrTboiosPCn/VJwIhu5cGY/bzqdxPx8lBYg4LHsxf.9FyK6k.", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "jehum1@naver.com", 
+      "mobile": "01054941370", 
+      "name": "\uc870\uc81c\ud760", 
+      "password": "$2a$12$4B1HIz7CRpci7.xgUu7THulmlT2NImJclPx2UoZ/eid3lTqpYKiV.", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "mr3coi@gmail.com", 
+      "mobile": "01092579932", 
+      "name": "\ucd5c\uc131\uc900", 
+      "password": "$2a$12$WHY3uYb49aQvsrvuSJ8PGubhILG36SHAWr9bTiTNegxcBrJdt1/pu", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "casamia743@gmail.com", 
+      "mobile": "01072099075", 
+      "name": "\ucd5c\ud604\uc77c", 
+      "password": "$2a$12$wK2S0os36uBvkN8dq3tZM.Cd3Q4XjBwHN1RyHpmsdRiudVKjl80.6", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "G423"
+    }, 
+    {
+      "email": "gglns94@naver.com", 
+      "mobile": "01030227838", 
+      "name": "\uc774\uc9c0\ud6c8", 
+      "password": "$2a$12$cP/i0JZrLVDydeOk47garuC9TLNhLqZw8L7ozYnpKCnGYLewuYvEW", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "fealty@snu.ac.kr", 
+      "mobile": "01020490589", 
+      "name": "\uae40\ud0dc\ud6c8", 
+      "password": "$2a$12$8n.1V7Xxe2BAoH5vJnouMOmTUNPU06Vk5UMgV0rdd5DuCxYaGviuu", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "hoo_jh@snu.ac.kr", 
+      "mobile": "01040154051", 
+      "name": "\ubc15\uc9c4\ud6c4", 
+      "password": "$2a$12$EIsV/wca9XZD8UM0T0mAmeteAh6ziqh.DW/FcOxECxgyOZ/bo2lqK", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "ecovic94@gmail.com", 
+      "mobile": "01050201557", 
+      "name": "\uc2e0\ub3d9\ubbfc", 
+      "password": "$2a$12$UH4C6ObhljUCehv9rWdaouqGQilgZMtThLBpabDJpvorGnCmbF3S6", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "shwoo93@snu.ac.kr", 
+      "mobile": "01047375045", 
+      "name": "\uc6b0\uc0c1\ud604", 
+      "password": "$2a$12$.S5soKd5K3NLcq80.8ZPSOWC2GvtzmDfS5Blf9wkXeQvu6Gnvizsa", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "luke9407@snu.ac.kr", 
+      "mobile": "01022793783", 
+      "name": "\uc6b0\uc8fc", 
+      "password": "$2a$12$pVuv7j.OS1xnXLL3zFn6fedJb3y.mbLKi8tZ6sPq2E8Fd3ZHUrEuW", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "inuri1991@snu.ac.kr", 
+      "mobile": "01037996975", 
+      "name": "\uc774\ub204\ub9ac", 
+      "password": "$2a$12$XKtNNc0xs2mxmH2BMS7Kwu0jURVTmv/i6aPO8ImN5FuW5gueKPp/.", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "bensies13@gmaal.com", 
+      "mobile": "01032999451", 
+      "name": "\uc774\ubc94\uad6d", 
+      "password": "$2a$12$uEVExvzsJbBn41cU07wAW.ErazMucnpnHR9BF8ggbUEC2HLo.W6ai", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "nm5005@snu.ac.kr", 
+      "mobile": "01051925877", 
+      "name": "\uc870\uc815\uc6d0", 
+      "password": "$2a$12$b3qy9dmDokczat8Y9n0wP.MmLZjQXqA8gSwufzgX1yPxwUHaYcRL.", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SIMBA"
+    }, 
+    {
+      "email": "junsung.michael@gmail.com", 
+      "mobile": "01062543940", 
+      "name": "\ubc15\uc900\uc131", 
+      "password": "$2a$12$jfVzDZmAPdIaacteTknRNumKryIxFc/A3teEwTJkh3e7WcUl9Zpma", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SNL"
+    }, 
+    {
+      "email": "alsdud6707@gmail.com", 
+      "mobile": "01058790703", 
+      "name": "\uac15\ubbfc\uc601", 
+      "password": "$2a$12$hXu.ZaJ/O9ZAU9GiURjnrucm8dP2Npy8qvuz5VaegkzrQpxyME6jO", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SNL"
+    }, 
+    {
+      "email": "helloing0119@naver.com", 
+      "mobile": "01056804827", 
+      "name": "\uae40\uae30\uc6c5", 
+      "password": "$2a$12$Ru6SVESOrhIHWxtW8VOffum3OexwSMFsS1SHBDbNfKMNoxfeK0/yS", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SNL"
+    }, 
+    {
+      "email": "ehrud9086@daum.net", 
+      "mobile": "01064607357", 
+      "name": "\uae40\ub3c4\uacbd", 
+      "password": "$2a$12$CWoin1kp3altc6QYZ8wX4OZI4cChOgx5uXGjVW38qpbGFx8WRvqSe", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SNL"
+    }, 
+    {
+      "email": "ministar0259@gmail.com", 
+      "mobile": "01035570739", 
+      "name": "\uae40\uc815\ubbfc", 
+      "password": "$2a$12$38jqq3bFLXtIOpH8UiQt6uGa2eLO7SPwWmn3Asy3Pwk4mDALO8RbK", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SNL"
+    }, 
+    {
+      "email": "namhj28@naver.com", 
+      "mobile": "01023330264", 
+      "name": "\ub0a8\ud615\uc9c4", 
+      "password": "$2a$12$10OViN6TWBaIFVNd/a7Nuu//m87ACBU2BOmF7zsCRB9oVtUpndTMG", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "SNL"
+    }, 
+    {
+      "email": "yoonjeen1104@naver.com", 
+      "mobile": "01088235813", 
+      "name": "\uc724\uc9c4", 
+      "password": "$2a$12$na5JYlj1ZfFhaxcApjy54.32mZEmpETmAEHySlmX6IKoduGGUXYHO", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "gwoo1996@snu.ac.kr", 
+      "mobile": "01033926532", 
+      "name": "\uac15\uc9c0\uc6b0", 
+      "password": "$2a$12$7XRxVVzKo3X1y9Ju/woR7OubeotPNzmo48YYzQpqHNHEhuzK55yTK", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "ehghks27@snu.ac.kr", 
+      "mobile": "01097114326", 
+      "name": "\uae40\ub3c4\ud658", 
+      "password": "$2a$12$kBGi9PWoP6VhL4x55lhZnu613il0riheE1xhcx0Q..w1ZpIPqziQm", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "grey_pastor@naver.com", 
+      "mobile": "01024565741", 
+      "name": "\ub0a8\ud615\uac78", 
+      "password": "$2a$12$CRWCSZgiqz.T3rfixVWs1uT1aAnFsVo9AaP7.04TWid3woODFnmQO", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "sprinov@naver.com", 
+      "mobile": "01086960600", 
+      "name": "\uc548\uc0c1\uc6b0", 
+      "password": "$2a$12$uZgRa8Ad7h4VCIN2QgYjFO5FgSTiixpnQYzfacE2ZRjrgfxzjAVGa", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "ljs8860@snu.ac.kr", 
+      "mobile": "01080138860", 
+      "name": "\uc774\uc7ac\uc131", 
+      "password": "$2a$12$XvjAIpUkQGf3IchZf/3mZ.S9XfOWfcp/B0Ey1saDtgjKRx/Gudxk.", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "cr2622@snu.ac.kr", 
+      "mobile": "01033141572", 
+      "name": "\uc870\uc815\ud6c8", 
+      "password": "$2a$12$WC6UMkRcBUWvrB0nmWiHm.QgnpCxOGNHWukjy8kqmMsspw1qZ2C7e", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "sunki95@gmail.com", 
+      "mobile": "01039598599", 
+      "name": "\ud64d\uc120\uae30", 
+      "password": "$2a$12$4yV3uo./3lOYqEC8V8Rzw.Pxkfc2dJE/rIwMnNsFXsLEFGnHObivS", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\uc724\uc9c0\ub2c8\uc5b4\uc2a4"
+    }, 
+    {
+      "email": "cokr3430@gmail.com", 
+      "mobile": "01073213430", 
+      "name": "\uc815\uc720\ucca0", 
+      "password": "$2a$12$szLkVq7nj2WaXnsZiq1q/Oe27Os8gfkL9ktK23l.SSuEf9bzjKTVm", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "jmp0731@nate.com", 
+      "mobile": "01063012896", 
+      "name": "\ubc15\uc885\ubbfc", 
+      "password": "$2a$12$EcvaJ6R/KaQWKFn6Quf2fu7J70LCtgQnjPX4MVwCGDd0C7TcDq42u", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "anne940303@gmail.com", 
+      "mobile": "01092036372", 
+      "name": "\uc2e0\uc218\uc548", 
+      "password": "$2a$12$3OoInOJ17hU.IYH7oRdOo.fhnS6TR9cfbj6lfSwIl3lf0lVFCyWWq", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "lkj308@nate.com", 
+      "mobile": "01027004446", 
+      "name": "\uc774\uacbd\uc900", 
+      "password": "$2a$12$JP0Y/qCbD2HiHBiXB3OQf.aUXZPc13suIxL7tk9K6Y5cDFTD0N31m", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "lgy1425@gmail.com", 
+      "mobile": "01096121425", 
+      "name": "\uc774\uadfc\uc601", 
+      "password": "$2a$12$VPSBkq8Ku6zDS3.Z2LjHg.sHX7BHemYfJ/FcG3AfRdK.KSSBLHKgm", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "repositivator@gmail.com", 
+      "mobile": "01037382422", 
+      "name": "\uc870\ub300\uc5f0", 
+      "password": "$2a$12$zLkr/suDtipUs2y1Q12FM.h0K2RCo3I39lE6BOx5MkOIq5dyJv0HO", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "cyjmini@gmail.com", 
+      "mobile": "01099451658", 
+      "name": "\ucd5c\uc724\uc815", 
+      "password": "$2a$12$veW8OS7qoNRN9QMtoOsS4./tXg6kzeRDDOUUiCbe1q2dSCyWotvxq", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc628\uc704\ud0a8\uc988"
+    }, 
+    {
+      "email": "hanbber@hanmail.net", 
+      "mobile": "01067310627", 
+      "name": "\uc815\ud55c\ubcc4", 
+      "password": "$2a$12$3AXJ6cUlcOoKyjjKYh8ua.1aTwanEzaW.YJc0o/aHAbUgF7eOJ17i", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "ji2un0317@gmail.com", 
+      "mobile": "01020666318", 
+      "name": "\uacfd\uc9c0\uc740", 
+      "password": "$2a$12$1UO48QheKwqfbPsmGKScMeB6Gh0KZH7S4I9qtJeyxy2anQv76Hnuq", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "kby4911@naver.com", 
+      "mobile": "01081084911", 
+      "name": "\uae40\ubcd1\uc724", 
+      "password": "$2a$12$extqHmjs0uXYJHLnLEho..jvSCaZh09HENZvoRgtYcokf5NZ6qL7a", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "wognsdl4545@naver.com", 
+      "mobile": "01053935516", 
+      "name": "\uae40\uc7ac\ud6c8", 
+      "password": "$2a$12$xer682BatvNrRHHVijJzLesRsxxly8P3AbEw/oeB7bPkLESi0zifW", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "ckdgus9206@naver.com", 
+      "mobile": "01063638137", 
+      "name": "\uae40\ucc3d\ud604", 
+      "password": "$2a$12$WHwhvB2rBv2iy4ToTZCzqud8gg80BeDyd4jYQoZKkXh1U8Hzf0BNG", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "hyunwoo712@gmail.com", 
+      "mobile": "01082250534", 
+      "name": "\ubc15\ud604\uc6b0", 
+      "password": "$2a$12$zxJv/XAVcFU/dadmgzlsxeQ14/SjxD/fbg1yuLW2bwOG3xaIxm0Hi", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "bbaek0904@gmail.com", 
+      "mobile": "01049352837", 
+      "name": "\ubc31\uc131\uc900", 
+      "password": "$2a$12$4kz0qB9SKuOf.cdoUMDzCutunFQUYeb16TbXhlX.PhirYY79CUkxi", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "zozop58@hanmail.net", 
+      "mobile": "01038436883", 
+      "name": "\uc774\ud61c\uc9c4", 
+      "password": "$2a$12$ExjH6fxtifPN5W1woCOO7OKkv3g5r0dVBgn0TBiGg/BgJ2EWV3ftC", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "hanpama@gmail.com", 
+      "mobile": "01027975859", 
+      "name": "\ucd5c\uacbd\uc77c", 
+      "password": "$2a$12$ubuzo.Yx.Cp0VloAe9y2AeWldtOpYoyXc5ma/arg.82vaQapqeIKC", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8\uc2dc\ub9bd\ub300\ud559\uad50"
+    }, 
+    {
+      "email": "like853@naver.com", 
+      "mobile": "01032157297", 
+      "name": "\uae40\ub098\uc601", 
+      "password": "$2a$12$Q2Ui3kCH6IdNJlstc3qzRO2tFIZnUPI01X5LzszHOVwMYRCAeurYW", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uba4b\uc787\uc288"
+    }, 
+    {
+      "email": "yeeji77@naver.com", 
+      "mobile": "01087768434", 
+      "name": "\uad8c\uc608\uc9c0", 
+      "password": "$2a$12$fuxjpYt/1jfvcSQPtiWeiOMgTc9DwZoumm9CXVAA8TckBuD2wSw2i", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uba4b\uc787\uc288"
+    }, 
+    {
+      "email": "kay.kyoungmin@gmail.com", 
+      "mobile": "01050660516", 
+      "name": "\uae40\uacbd\ubbfc", 
+      "password": "$2a$12$QP6rTqTPnXG6nj1QzmZKWew1Hub4f9cLO.0C.b/QiIZQVpTGW6GqO", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uba4b\uc787\uc288"
+    }, 
+    {
+      "email": "happygoals@naver.com", 
+      "mobile": "01090138746", 
+      "name": "\ub958\ud574\ubbfc", 
+      "password": "$2a$12$TedDjvyJF39JijsozBpP7Oj77aK.AvCTvPfUFOahzYw2rAjU5B2oC", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uba4b\uc787\uc288"
+    }, 
+    {
+      "email": "duwlehduwl@naver.com", 
+      "mobile": "01039192687", 
+      "name": "\uc11d\uc2b9\uc5f0", 
+      "password": "$2a$12$0o/Lc2MqxmynxR7Xr/rSPOLT4iXLX1mHsrhRLq9Mr1/jRJLu9g3xO", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uba4b\uc787\uc288"
+    }, 
+    {
+      "email": "yjh9978@hanmail.net", 
+      "mobile": "01050620310", 
+      "name": "\uc720\uc9c0\ud61c", 
+      "password": "$2a$12$Snw9DFhf.qzoxYRZbq.XXeBBpMn5IUWfVkYmCvRttzTd1jBD6vI/q", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uba4b\uc787\uc288"
+    }, 
+    {
+      "email": "ally_joo@naver.com", 
+      "mobile": "01045809417", 
+      "name": "\uc8fc\uc5f0\uacbd", 
+      "password": "$2a$12$NC9BCQu3Z/OzCsFHokNCFuoE20YsmkG0DdR/R3Jxipo0sbTPi2Yym", 
+      "role": "LEADER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uaf2c\ub529"
+    }, 
+    {
+      "email": "any6111@naver.com", 
+      "mobile": "01046126103", 
+      "name": "\ubc15\uc778\uc601", 
+      "password": "$2a$12$/0Idz3slnUy2Os2e/g5apu/sTPMaIoCdb65sATp5i0bE.rTy1jy4G", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uaf2c\ub529"
+    }, 
+    {
+      "email": "shin2na93@naver.com", 
+      "mobile": "01036646812", 
+      "name": "\uc2e0\uc774\ub098", 
+      "password": "$2a$12$WiUcFHIp8MKiCHMhBeemvOkyqiN.ym3O7Aca4aZmIHIu9F//vfhtC", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uaf2c\ub529"
+    }, 
+    {
+      "email": "midnight1013@naver.com", 
+      "mobile": "01071535136", 
+      "name": "\uc720\ubbf8\uc1a1", 
+      "password": "$2a$12$FvsblAUQZvn7NkhokZXlS.n6av9cExvYkWa3zexldgyRm0UB706Fe", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uaf2c\ub529"
+    }, 
+    {
+      "email": "hyeyoonjungkr@gmail.com", 
+      "mobile": "01092207966", 
+      "name": "\uc815\ud61c\uc724", 
+      "password": "$2a$12$52NLzD1vpPfYghxiWctUE.rPj4Rfq0C.YhF8TDrAve8gjmVmBqaW.", 
+      "role": "USER", 
+      "school": "\uc11c\uc6b8\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud560\uaf2c\ub529"
+    }, 
+    {
+      "email": "shnoah@gmail.com", 
+      "mobile": "01051208808", 
+      "name": "\ub178\uc2b9\ud638", 
+      "password": "$2a$12$FghUcRR5EK6iVsng8vOn2.nZCo8Y6YMXGzuMN1Sv3mlhpXwa9fH/S", 
+      "role": "LEADER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "rbghks246@naver.com", 
+      "mobile": "01032342377", 
+      "name": "\uae40\uaddc\ud658", 
+      "password": "$2a$12$cPTUXwJd.03IAwy.WyGB7e2hjEDugA9EHC10V6/4DDLTz9.yOa0tK", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "seongjung12@gmail.com", 
+      "mobile": "01056825919", 
+      "name": "\uae40\uc131\uc911", 
+      "password": "$2a$12$4xIsDATxBQSmy.YOrJITo.L7lZUkzvtlnTIqRd5l7SNar5BNqi1VC", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "jasic21@naver.com", 
+      "mobile": "01027115792", 
+      "name": "\uc720\uc7a5\ud64d", 
+      "password": "$2a$12$mH8Xm70PvDKGAzUkoAF0c./O1fsfHiv7i6QADCZqZn4QMlZyB7ezq", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "summerofthink@gmail.com", 
+      "mobile": "01088603513", 
+      "name": "\uc774\uc885\uc9c4", 
+      "password": "$2a$12$0kpNHPqrNJiYrr6Sg.31o.C.0RohVbb7XA00UJPl/hqVrAWSW24jy", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "wmdghks@gmail.com", 
+      "mobile": "01091907532", 
+      "name": "\uc804\uc99d\ud658", 
+      "password": "$2a$12$ckhGVe1mRDjzHJ0VfswsAe9jO8W7lo1NOigWqezb64J1oonKXRJ5.", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "taehun9312@gmail.com", 
+      "mobile": "01029112109", 
+      "name": "\uc804\ud0dc\ud6c8", 
+      "password": "$2a$12$ITlPA1sSHefzGTSbyYOT0O/7AtvXzT6v3RBmbnYR7EQ4rhkgLJeBu", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "lucky.woon.j@gmail.com", 
+      "mobile": "01044802472", 
+      "name": "\uc815\uc6b4", 
+      "password": "$2a$12$vbo2LHnhIfttWhBUBWjqMe37lOyrrzwlSr/bOsudF1osKL7LsFdvG", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "skkjamie@gmail.com", 
+      "mobile": "01097223032", 
+      "name": "\uc815\uc9c4\uc8fc", 
+      "password": "$2a$12$oJVeLUG6lVoAa6AasE827uUuEnxFRhKy7xI0WDmmCyfftKjaEfw4y", 
+      "role": "USER", 
+      "school": "\uc131\uade0\uad00\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \uacf5\uc790\ucc98\ub7fc"
+    }, 
+    {
+      "email": "jyziyou@gmail.com", 
+      "mobile": "01083633618", 
+      "name": "\uc815\uc9c0\uc724", 
+      "password": "$2a$12$LPmQ7TQndEHXYCeYVe9nHOPT8awojHK1y.046HTV2nKP8Z9ZTW22.", 
+      "role": "LEADER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "awr0607@gmail.com", 
+      "mobile": "01077942240", 
+      "name": "\uc548\uc6b0\ub9ac", 
+      "password": "$2a$12$VU7f61Oi4upoJSArwXpsXu7p5EG3g0QrKppky8x6miP177dYYGkD2", 
+      "role": "USER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "vip4455@nate.com", 
+      "mobile": "01044552575", 
+      "name": "\uc774\ud55c\uc8fc", 
+      "password": "$2a$12$2FovPS1xHBdMhpyG1sx7LO/hPuJjjaGV3kYIyt99lT0vb1HKoRCLO", 
+      "role": "USER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "dhkaakdhkaak@gmail.com", 
+      "mobile": "01034395490", 
+      "name": "\uc804\ud61c\uc6d0", 
+      "password": "$2a$12$OS3OJcxxoBZgDOJDrr/p1.WhoQu56sQJxNLT7xsrQTXrm5cf81Kp.", 
+      "role": "USER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "dory0107@naver.com", 
+      "mobile": "01023377976", 
+      "name": "\uc870\uc218\uacbd", 
+      "password": "$2a$12$BIRSMt5jrGTgQGQNXYTTweZaiK7CqacHEYvjU5ubk35EWSnXNQFhy", 
+      "role": "USER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "avery_123@naver.com", 
+      "mobile": "01032109762", 
+      "name": "\ucd5c\uc2dc\ub77c", 
+      "password": "$2a$12$lOnLpQnC/nOiALnPZbkekeRfvoIbtcX5ny/JORz28Vdy0twaJFqFu", 
+      "role": "USER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "breeze7765@gmail.com", 
+      "mobile": "01024087163", 
+      "name": "\ud3b8\uc740\uc9c0", 
+      "password": "$2a$12$JNXyDx8zzH5dOTm0e8iAaemWSJEvAPBtr690kstyxX712mnBs8iZS", 
+      "role": "USER", 
+      "school": "\uc131\uc2e0\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc628\ud038"
+    }, 
+    {
+      "email": "wndus8018@gmail.com", 
+      "mobile": "01094828018", 
+      "name": "\uc774\uc8fc\uc5f0", 
+      "password": "$2a$12$P4VgLZqAjrHylo3E/3IzEur5oDgNK85lz7BReAnbwxqJc4fGlaRP2", 
+      "role": "LEADER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc465\uc465"
+    }, 
+    {
+      "email": "jri02@naver.com", 
+      "mobile": "01055400226", 
+      "name": "\uae40\uc5f0\uc9c0", 
+      "password": "$2a$12$oeWyfAObuTv9PJAPVfzHKOGcurdpACOAfK6c1CjIRLkjugUNCphyK", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc465\uc465"
+    }, 
+    {
+      "email": "glynnisshin@naver.com", 
+      "mobile": "01067652299", 
+      "name": "\uc2e0\uc720\ub9ac", 
+      "password": "$2a$12$WloB6jIGFlMon0uB.At1NOaiQPg7yTf/.nna3VqcDhtmieRowmI8m", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc465\uc465"
+    }, 
+    {
+      "email": "eimsh3_3@naver.com", 
+      "mobile": "01076543107", 
+      "name": "\uc784\uc18c\ud604", 
+      "password": "$2a$12$msAb8.MnyMJowUvcw7SXAuWuQgahv4yeb8y5FSWREwXLgYz5Z8SM.", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc465\uc465"
+    }, 
+    {
+      "email": "7subin7@naver.com", 
+      "mobile": "01029618781", 
+      "name": "\uc804\uc218\ube48", 
+      "password": "$2a$12$3p2zDXNrwBpPi.7jMn5REOru.GpRDckGZJLzS17v.ChqmetaB0EYq", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\uc465\uc465"
+    }, 
+    {
+      "email": "unejini@gmail.com", 
+      "mobile": "01052118799", 
+      "name": "\uc724\ud61c\uc9c4", 
+      "password": "$2a$12$aQFCz43S3z3ZfGGkRPDgKO39AaB8bGJV3vZfyss.SIKEOpzSLthOG", 
+      "role": "LEADER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud558\ub7ec\uc654\uc219"
+    }, 
+    {
+      "email": "sukimon92@gmail.com", 
+      "mobile": "01043006680", 
+      "name": "\ubb38\uc219\ud76c", 
+      "password": "$2a$12$EDe1FXsrbdS/AzzUh/efIeqWmJMKxaurn/tBD04eetSgo.mJbwksa", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud558\ub7ec\uc654\uc219"
+    }, 
+    {
+      "email": "noodi36@naver.com", 
+      "mobile": "01052235914", 
+      "name": "\uc548\ub204\ub9ac", 
+      "password": "$2a$12$KzA3wyAEdnVo5kv8u1hBfOKd7twPxIJcz2AFRMt.HEPJ6HMYUfqUu", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud558\ub7ec\uc654\uc219"
+    }, 
+    {
+      "email": "wiselsy60@gmail.com", 
+      "mobile": "01050646799", 
+      "name": "\uc774\uc18c\uc5f0", 
+      "password": "$2a$12$tWvX3xDBOP2FsXWcEmWqGedN8XTiOkdTHaj.2EB933FQgXh6610su", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud558\ub7ec\uc654\uc219"
+    }, 
+    {
+      "email": "youjin9200@naver.com", 
+      "mobile": "01075610509", 
+      "name": "\ud55c\uc720\uc9c4", 
+      "password": "$2a$12$UNh3AthmnNYwJPtFJJMQ9eXNUTdiEGm0.WrQHX0ErhH5JaQXiHMcK", 
+      "role": "USER", 
+      "school": "\uc219\uba85\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud558\ub7ec\uc654\uc219"
+    }, 
+    {
+      "email": "p22ju@naver.com", 
+      "mobile": "01094623345", 
+      "name": "\ub9c8\ud558\uc5f0", 
+      "password": "$2a$12$LKWDN73qHupUvCnLJAEWM.2Vw7rkttNoFw9fsqYHxU5inSS092Q1i", 
+      "role": "LEADER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "sanghoo9112@naver.com", 
+      "mobile": "01071807554", 
+      "name": "\ubc15\uc0c1\ud6c4", 
+      "password": "$2a$12$iRpQNXf7wbFuZgP52EdTU.zy1nwHqNHKN0SiiE3ApTEJXBd8HwkUm", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "pjwoo59@naver.com", 
+      "mobile": "01050584697", 
+      "name": "\ubc15\uc815\uc6b0", 
+      "password": "$2a$12$FL0Ku0NJyDY6AnQzua1AQ.lWVbjfqAKN893F7lRLQbDLF.As10BMK", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "dhgudwn02@naver.com", 
+      "mobile": "01022022352", 
+      "name": "\uc624\ud615\uc8fc", 
+      "password": "$2a$12$n70xYcy1ByaP/z.7qExprO/OYPDKa8lJ7Igw62WhvQbUSX5zk/lkO", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "serinee95@gmail.com", 
+      "mobile": "01025981734", 
+      "name": "\uc774\uc138\ub9b0", 
+      "password": "$2a$12$rI/TgscYUOC4BVtA0KSqc.R7UmPhWGsn04jQrEoFu6REKY783mtD2", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "ljm901011@nate.com", 
+      "mobile": "01085990681", 
+      "name": "\uc774\uc9c0\uba85", 
+      "password": "$2a$12$6.bVC8KNfrhamr0ibAACDeNoW8jLTlpbceevFHMHrzUny9J.Fc606", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "dlguswn920521@hanmail.net", 
+      "mobile": "01022917880", 
+      "name": "\uc774\ud604\uc8fc", 
+      "password": "$2a$12$oayn9W4geurxg1PsIPivsusISzXxFRfu.U7nVuXx46lIZryyI.EbK", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\uc544\uc0ac\uc790(\uc544\uc8fc\uba4b\uc788\ub294\uc0ac\uc790\ucc98\ub7fc)"
+    }, 
+    {
+      "email": "shpark727@gmail.com", 
+      "mobile": "01051070608", 
+      "name": "\ubc15\uc131\ud658", 
+      "password": "$2a$12$ArdD2NeAUvtPYgzWfuX2VuJ0wWVPaaerGIuOM7Sx/UObiTi4b8gGe", 
+      "role": "LEADER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4f1\uc5b4"
+    }, 
+    {
+      "email": "baramhint@naver.com", 
+      "mobile": "01073604238", 
+      "name": "\uae40\uae30\ubd80", 
+      "password": "$2a$12$JNAlZpUZDxnsSLMZ8cYY0.BesrpVrU5feVzC3.0vtJl81IifeL0Cy", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4f1\uc5b4"
+    }, 
+    {
+      "email": "30534@naver.com", 
+      "mobile": "01096288289", 
+      "name": "\ubc15\uc131\uc900", 
+      "password": "$2a$12$qASNvAPm7VFSUFUgQIzKHeTv3M8TJXlHVYWnsKiJbY/pXBKRdq5Ri", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4f1\uc5b4"
+    }, 
+    {
+      "email": "kokonut39@gmail.com", 
+      "mobile": "01029052068", 
+      "name": "\uc190\ub3d9\ucc2c", 
+      "password": "$2a$12$llNNlN1SdyRAJA4UzebO9Oet0y1K7bv4MyOu3FGpsc44njLbv.dl6", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4f1\uc5b4"
+    }, 
+    {
+      "email": "prettyfox209@gmail.com", 
+      "mobile": "01095915341", 
+      "name": "\uc870\uc740\uc815", 
+      "password": "$2a$12$fot8uSBavG2H89WX1eydr.Ys1auXokoeRjoXd4dWXArnLKg.1I07m", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4f1\uc5b4"
+    }, 
+    {
+      "email": "geulrara123@naver.com", 
+      "mobile": "01040087863", 
+      "name": "\ud64d\uc11c\uc5f0", 
+      "password": "$2a$12$XSAfHNejQuKXfVqDq0kkeO.KuqC/eXjJpI32M0QbrSojgZ84fudTm", 
+      "role": "USER", 
+      "school": "\uc544\uc8fc\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4f1\uc5b4"
+    }, 
+    {
+      "email": "christie.hm.lee@gmail.com", 
+      "mobile": "01076008193", 
+      "name": "\uc774\ud604\ubbfc", 
+      "password": "$2a$12$RvwgLNE5bKBWLHzydeaXOu591VnmFDPj6hy6dPAzNf23MP0tb6vRG", 
+      "role": "LEADER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "limpid037@naver.com", 
+      "mobile": "01080018475", 
+      "name": "\uae40\ub098\uc601", 
+      "password": "$2a$12$OI47ovg5.FYJrEkSvHYQsOG49.Cp9X3KfIPW6zhGzF0bFMO9I9kIa", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "lyj0715@gmail.com", 
+      "mobile": "01099678022", 
+      "name": "\uc774\uc601\uc900", 
+      "password": "$2a$12$tGed6HBXZgTXXo5XyxuQhO4eBv5F4J3Q6Fhd7GS2Z.Wfr4AQCHi4i", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "comforest@naver.com", 
+      "mobile": "01050203105", 
+      "name": "\uc774\ud638\uc5f0", 
+      "password": "$2a$12$Ar4MqdLPjn1tZP1NijXVfeACgG8DWvfR/6f7UW22u8OhguC/52vX6", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "wwwgoeuncom@daum.net", 
+      "mobile": "01092955435", 
+      "name": "\uc804\uace0\uc740", 
+      "password": "$2a$12$C65MWbT9QJRB9HR4Qb9xvO/bmIJ/QfvelplLit5/2S0Ot3NxqWBKS", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "eune6420@naver.com", 
+      "mobile": "01046926429", 
+      "name": "\uc815\uc740\uc601", 
+      "password": "$2a$12$owwP979vgmLz.mRyc.DiuO1AHM87y20GVtTUbsr71RrJLfy.muQNK", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "jihj0701@naver.com", 
+      "mobile": "01098018312", 
+      "name": "\uc9c0\ud604\uc900", 
+      "password": "$2a$12$ePjWZ37w6EUC8N5nb3NP8eCd5OieKyA85qL.LtS.VTWJj76f6xr/e", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uace8\ub4e0\ud551\uac70\uc2a4"
+    }, 
+    {
+      "email": "jnam920329@gmail.com", 
+      "mobile": "01065640329", 
+      "name": "\ub0a8\ud604\uc6b0", 
+      "password": "$2a$12$F5HUoxMB/L8SSWZVllhqOOIPqfhzRG4kCh3.I8x34KtWZha0aB63u", 
+      "role": "LEADER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubc24\ub098\ubb34\uc232"
+    }, 
+    {
+      "email": "woody.korea@gmail.com", 
+      "mobile": "01033498763", 
+      "name": "\uae40\uc6b0\uc11d", 
+      "password": "$2a$12$z5Kf1ifeGD5.NHWuzIRC9uxmtafE8jazYXjW.zjYoHSKRIzAN3BjG", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubc24\ub098\ubb34\uc232"
+    }, 
+    {
+      "email": "qkrcjdgh1004@gmail.com", 
+      "mobile": "01090024664", 
+      "name": "\ubc15\uccad\ud638", 
+      "password": "$2a$12$EnzhYconIsVsbMMrKKBZ6.ukqNIM3tgJhKWuvOv/Kt1jSluzb.44O", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubc24\ub098\ubb34\uc232"
+    }, 
+    {
+      "email": "bang7132@gmail.com", 
+      "mobile": "01026349711", 
+      "name": "\ubc29\uc5ed\uc8fc", 
+      "password": "$2a$12$NanDQOcvYZUs5yDwi/Vyu.MXRugrylYVVlo22UCtFNOR5RnfCo.mS", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubc24\ub098\ubb34\uc232"
+    }, 
+    {
+      "email": "joojaehak0918@gmail.com", 
+      "mobile": "01045855106", 
+      "name": "\uc8fc\uc7ac\ud559", 
+      "password": "$2a$12$IL5Ijt7yBG9BOuspzzNjPuAqe4Lg0eKDCBTMa8xuTdi7TiVLFfRxq", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubc24\ub098\ubb34\uc232"
+    }, 
+    {
+      "email": "ildo.k.hong@gmail.com", 
+      "mobile": "01034236393", 
+      "name": "\ud64d\uc77c\ub3c4", 
+      "password": "$2a$12$FpwG27HOaSHsHIA2KX4C1eSAKtD2eILxFuMDULPNkLV.whaPsoVXe", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubc24\ub098\ubb34\uc232"
+    }, 
+    {
+      "email": "takfeb@gmail.com", 
+      "mobile": "01094297950", 
+      "name": "\uae40\ud0c1\ud76c", 
+      "password": "$2a$12$q4.zAQnljgpatucVPet13uUXMk7oWjiC2.smCytj4CcN/8wrWIMXm", 
+      "role": "LEADER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubf40\ub3d9\ubf40\ub3d9 \uace0\uc2b4\ub3c4\uce58 \uadc0\uc5ec\uc6b4 \ub8e8\ube44"
+    }, 
+    {
+      "email": "kira2402@naver.com", 
+      "mobile": "01028422402", 
+      "name": "\uae40\uc9c0\uc12d", 
+      "password": "$2a$12$1HTnivqgZJ4bdmAwgteIcur03N8g4pssEf75KlMm18k5KEuZ27q9e", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubf40\ub3d9\ubf40\ub3d9 \uace0\uc2b4\ub3c4\uce58 \uadc0\uc5ec\uc6b4 \ub8e8\ube44"
+    }, 
+    {
+      "email": "eeheat45@gmail.com", 
+      "mobile": "01066323480", 
+      "name": "\uae40\ud0dc\ud76c", 
+      "password": "$2a$12$NDtBKA/MnoMEQowrzjVuVeZbY//R9fuNb3BteUonn5JyFvaOakIAm", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubf40\ub3d9\ubf40\ub3d9 \uace0\uc2b4\ub3c4\uce58 \uadc0\uc5ec\uc6b4 \ub8e8\ube44"
+    }, 
+    {
+      "email": "nkmn98@hanmail.net", 
+      "mobile": "01023759108", 
+      "name": "\ub178\uacbd\ubbfc", 
+      "password": "$2a$12$tLvV4zagDDcoflQnWIDZpuf5ruut/yYAzCVGeQBjK/vIeS/wD/qZu", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubf40\ub3d9\ubf40\ub3d9 \uace0\uc2b4\ub3c4\uce58 \uadc0\uc5ec\uc6b4 \ub8e8\ube44"
+    }, 
+    {
+      "email": "shauna1@naver.com", 
+      "mobile": "01029057641", 
+      "name": "\uc120\uc18c\ud604", 
+      "password": "$2a$12$BcvyX4rYiQ2JpQ34KuGoWecwQCJ1/8/TWRmUqfSNe.aoFMe9If/CO", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubf40\ub3d9\ubf40\ub3d9 \uace0\uc2b4\ub3c4\uce58 \uadc0\uc5ec\uc6b4 \ub8e8\ube44"
+    }, 
+    {
+      "email": "sanh129@naver.com", 
+      "mobile": "01092147256", 
+      "name": "\uc774\ud55c\uc0b0", 
+      "password": "$2a$12$rubJBzr0ee.2e9/Nq8qY7uNRj32uUyw9y2jCoZO2ucYNC/LazqaCC", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ubf40\ub3d9\ubf40\ub3d9 \uace0\uc2b4\ub3c4\uce58 \uadc0\uc5ec\uc6b4 \ub8e8\ube44"
+    }, 
+    {
+      "email": "shiny742000@hotmail.com", 
+      "mobile": "01047648279", 
+      "name": "\ud669\uc644\uc2dd", 
+      "password": "$2a$12$3FTIgdxTz3pcmHN6bY58TuBEUtogCvtqVK/qKgd6JLqddBeCqsGIq", 
+      "role": "LEADER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "biniprc@hotmail.com", 
+      "mobile": "01039321607", 
+      "name": "\uac15\ub3d9\uc8fc", 
+      "password": "$2a$12$TMt0LAhsEQeuiFNdl1muG.MzqdXJD/wqUKvTU3MQvxsj0/n9DHUt.", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "audwl306@naver.com", 
+      "mobile": "01041793006", 
+      "name": "\uae40\uba85\uc9c0", 
+      "password": "$2a$12$haY0epI2cwPKaRv0HZSyTOVdI13p2C/IMrc7iWMrFLPZCCHhuirsq", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "geubin0414@naver.com", 
+      "mobile": "01053590948", 
+      "name": "\uc190\uaddc\ube48", 
+      "password": "$2a$12$/XJzjs7xFqumOcpRYBTefudokxETOcfqGxiycUtlm7.KvAPk2S6w2", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "thinksingimagine@gmail.com", 
+      "mobile": "01046188634", 
+      "name": "\uc724\ucc44\uc6d0", 
+      "password": "$2a$12$EQ/r8KqQCdvs9WCSw1u7Pu/j9.l194AfdAMf4zi2Wfjq8uGJGTr5.", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "eric1@naver.com", 
+      "mobile": "01048155890", 
+      "name": "\ucc28\ub3c4\ud604", 
+      "password": "$2a$12$/SO18Hc3CIHH./D54jIi1.6kfFrmOIYHXwQ6T.S9ZCHacR0NvG256", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "coyking77@gmail.com", 
+      "mobile": "01027238652", 
+      "name": "\ud64d\uc131\uc5f0", 
+      "password": "$2a$12$GoqINeKdaX1L/FdSXzsLm.CwmVuAmI6kZbfstCQnC0MnWBK0IdJrS", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6a5"
+    }, 
+    {
+      "email": "math814@naver.com", 
+      "mobile": "01088330979", 
+      "name": "\ubbfc\ucc2c\ud64d", 
+      "password": "$2a$12$Of9XuUI0zGPrMkRpuayBpeOSt9qrmOtr6G6ccee3APC5IYwKq7P36", 
+      "role": "LEADER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "dwno31@yonsei.ac.kr", 
+      "mobile": "01095967403", 
+      "name": "\ub178\ub300\uc6d0", 
+      "password": "$2a$12$qKnpuJs7fvO407nadbX9y.UfVlK2XIYHMh6mx/6dPP05AD/qrcQsW", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "pottersd2@naver.com", 
+      "mobile": "01027061463", 
+      "name": "\uc2e0\ub3d9\uc12d", 
+      "password": "$2a$12$4TIO0l6QGEvN8kkft9hOHe4BECMyktXtoUnWc0DzuN3YzNV4et2w.", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "stl950116@naver.com", 
+      "mobile": "01033565578", 
+      "name": "\uc774\uc131\ud0dc", 
+      "password": "$2a$12$7MwefSSKHid1ehqbMAjYdu7fAupWVRryhozOwZnIEtHhA/nYCbt6.", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "elon4856@gmail.com", 
+      "mobile": "01041763939", 
+      "name": "\uc815\uc131\ud5cc", 
+      "password": "$2a$12$FgfOLLzhPH7DTE6OLXXFr.qqYQRvvnGzn/InpAvrj4GNWT09WyoCe", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "haeunhersh@gmail.com", 
+      "mobile": "01042414257", 
+      "name": "\uc870\ud558\uc740", 
+      "password": "$2a$12$2TihjLWlq86uRMczJ6swPOIPcLu7AZinnXFpBq5ot1I.Rh8pn18a.", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "ikea628@gmail.com", 
+      "mobile": "01075258033", 
+      "name": "\ucd5c\uc608\uc6d0", 
+      "password": "$2a$12$LGPG5RMZx.O.9muoEsxAF.w.xsEtNm/NVOSvXt30qRpEZQDu5mxw2", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "namho.d.hong@gmail.com", 
+      "mobile": "01068561560", 
+      "name": "\ud64d\ub0a8\ud638", 
+      "password": "$2a$12$XcbOPEN0ScjIatmm0UjMIOpN4pZuhEtRkMRSRcMhzWFh/Pz7iJSkO", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\uc6f0\uc2dc\ucf54\ub529"
+    }, 
+    {
+      "email": "insunym@gmail.com", 
+      "mobile": "01068540028", 
+      "name": "\uc815\uc778\uc218", 
+      "password": "$2a$12$tO0iSwg4qFOBd.ZcSn7yJOyW/9z31M/bzbL3eGkOPFNvngb.heX0y", 
+      "role": "LEADER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "gksdn0909@naver.com", 
+      "mobile": "01090718991", 
+      "name": "\uae40\uc18c\uc608", 
+      "password": "$2a$12$043pD7nBtEojKTNBTtY.C.mxLo4fHxrt2axy/xlCLI2Lx4LHEAWg2", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "saskae88@gmail.com", 
+      "mobile": "01030462483", 
+      "name": "\ubc15\uc815\ud604", 
+      "password": "$2a$12$oANwFz3PlUUgv9bxy5rZ5OVU3UO80xpMeFvPFRANzXtSXNTCA4rum", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "dls0931@gmail.com", 
+      "mobile": "01077227171", 
+      "name": "\uc624\uc608\uc778", 
+      "password": "$2a$12$BFBDqx1toc4n56JQMrwBR.G2ocQIBHEjyJX8HDcGjGi/5hWcCS0SC", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "heeyawl@gmail.com", 
+      "mobile": "01090036463", 
+      "name": "\uc720\ud76c\uc5f4", 
+      "password": "$2a$12$SJnptJlomaf7f3b3BWe7o.3nU8L90yeKazQGwBDy1h9aStF8IaN9G", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "lloyd22@naver.com", 
+      "mobile": "01087175951", 
+      "name": "\uc774\ub3d9\uc7ac", 
+      "password": "$2a$12$6ut6Ygv0pPzjyNhSzJnS0OpBQtgybJDgbAQMg/aYbCSD9N3MowuUe", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "soheum@naver.com", 
+      "mobile": "01093513567", 
+      "name": "\ud669\uc18c\ud760", 
+      "password": "$2a$12$iwuiN2AgqBC1nhTlWwA8n.hH4JAvfeOTf35esTEXyvGxpxUyxu14e", 
+      "role": "USER", 
+      "school": "\uc5f0\uc138\ub300\ud559\uad50", 
+      "team": "\ucf54\ub4dc \uae4e\ub294 \ub178\uc778"
+    }, 
+    {
+      "email": "sbm1992@naver.com", 
+      "mobile": "01052946740", 
+      "name": "\uc11c\ubcf4\ubb38", 
+      "password": "$2a$12$l1JQZv3SDvCa74b40Ema6.cr1HeOnIK4yK2.8zyYOM/FsuzEs5W0.", 
+      "role": "LEADER", 
+      "school": "\uc601\ub0a8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub514\uc2a4\ud2b8"
+    }, 
+    {
+      "email": "ss4483@naver.com", 
+      "mobile": "01098804483", 
+      "name": "\uae40\uc131\uc218", 
+      "password": "$2a$12$e7Nbu3ie/QTApug1Ag4xIuYyWDJ/Z0Wuz4Jiu/eT..1v72ToJ777a", 
+      "role": "USER", 
+      "school": "\uc601\ub0a8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub514\uc2a4\ud2b8"
+    }, 
+    {
+      "email": "ghjk3554@naver.com", 
+      "mobile": "01071623554", 
+      "name": "\ubc15\uc218\ubbfc", 
+      "password": "$2a$12$6aGQ07Ugqur5Cf.iy55jROd1s6HNEKJlzlgGSdKZeJwCCSe9Xrhsu", 
+      "role": "USER", 
+      "school": "\uc601\ub0a8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub514\uc2a4\ud2b8"
+    }, 
+    {
+      "email": "tst1206@hanmail.net", 
+      "mobile": "01068065025", 
+      "name": "\uc190\uc724\ud638", 
+      "password": "$2a$12$QPHJyWafHMdaZpeBFsJpp.qRYj0ufhlbh.Mxa8qKV516zUy5gev1S", 
+      "role": "USER", 
+      "school": "\uc601\ub0a8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub514\uc2a4\ud2b8"
+    }, 
+    {
+      "email": "jessestarr@naver.com", 
+      "mobile": "01051670131", 
+      "name": "\ucd5c\uc9c0\ud61c", 
+      "password": "$2a$12$.jD.eochRVoTeKGZ/byJdem9VWzRFQYHAMODsxLQ0BJUiQK2.J0xm", 
+      "role": "USER", 
+      "school": "\uc601\ub0a8\ub300\ud559\uad50", 
+      "team": "\ucf54\ub514\uc2a4\ud2b8"
+    }, 
+    {
+      "email": "astyfx@gmail.com", 
+      "mobile": "01054666424", 
+      "name": "\uae40\uc9c4\uc624", 
+      "password": "$2a$12$rtnDU4kZUcOFzLqy61LO6e4qm3cwWccn5CRZHB66Vc6AhPTNAxrqu", 
+      "role": "MASTER", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "me@laby.kr", 
+      "mobile": "01085553217", 
+      "name": "\uae40\uc9c0\ud638", 
+      "password": "$2a$12$HvEGVaJcwYjJFdDUajw2qeej82A18gLL4Pn/BSkKQ3nw1W7zGtCXS", 
+      "role": "ADMIN", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "zeros19861@gmail.com", 
+      "mobile": "01033828940", 
+      "name": "owen", 
+      "password": "$2a$12$H1z6uYeqjbAiQYF/j8T7Seue/oKtdm5R6zupxYxXHdNX0P9eG7Uay", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "tellmewhy07@gmail.com", 
+      "mobile": "01090549053", 
+      "name": "\uad6c\ub3d9\ud604", 
+      "password": "$2a$12$RLz9c0Zao7qTMxAYrd35NO.75r5mWvwnbphWCRWU/6JcxbYCg1Jae", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "alchemist85k@gmail.com", 
+      "mobile": "01064121906", 
+      "name": "\uae40\ubc94\uc900", 
+      "password": "$2a$12$ukJjxwq92biDhs3rIo5O5ufp7ZbNkCgfncfJbJYGGXB1eCy8nVB4G", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "hiddenparts@gmail.com", 
+      "mobile": "01032141953", 
+      "name": "\uae40\uc0c1\uc120", 
+      "password": "$2a$12$dt/ftf/JdcmBODTrf5y96u5uL73Rc8DGD7uxc8fzSoyry5jidoo7K", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "nnmm666@naver.com", 
+      "mobile": "01033413321", 
+      "name": "\ubc15\uc138\uc9c4", 
+      "password": "$2a$12$xfHVZ0onCNmIEKmi4rQVJuagGjzhOr0Us3sKb89HHVtFhr7gdcCm.", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "shinycoo@gmail.com", 
+      "mobile": "01028250029", 
+      "name": "\ubc15\uc21c\uc601", 
+      "password": "$2a$12$/EEJ2FJJNXyWAFIIZhXuCOK/sl5Bm8U6e.XrKSfXWECrxvcYBOg/K", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "pjhjohn@gmail.com", 
+      "mobile": "01094514538", 
+      "name": "\ubc15\uc900\ud638", 
+      "password": "$2a$12$gRr9jWgGfH3PjBIAojYdbu1tyRYK9V3j6sP2ba0h2xU6hkoSegwjm", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "archinitus@gmail.com", 
+      "mobile": "01047420902", 
+      "name": "\uc5b4\uc218\uc6c5", 
+      "password": "$2a$12$ah3WfcaGVcZF04ibqJBqGOuPXY1dHsXlptp18IpNLDXP/wu5H6r0a", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "sungjin7@gmail.com", 
+      "mobile": "01073305919", 
+      "name": "\uc624\uc131\uc9c4", 
+      "password": "$2a$12$cM0DVNdJR0xigtuflU6AxOltdWGCR8Fma6tqpvXdn/Lq7QhwRhoBK", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "iamdoo2@gmail.com", 
+      "mobile": "01199991181", 
+      "name": "\uc774\ub450\ud76c", 
+      "password": "$2a$12$Ynf9ijoFopOKqrjYaKKOFedY4CK1r4/0hhO72vSn2GZu9eleL2.6u", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "lsywind3@gmail.com", 
+      "mobile": "01041833431", 
+      "name": "\uc774\uc0c1\uc724", 
+      "password": "$2a$12$kVK/ATPto5L2SUxdauE1yu0eEtuNPq3hXN5ly0BzCl8dj4/qLbx1a", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "tprpc@tprpc.com", 
+      "mobile": "01092876789", 
+      "name": "\uc774\ud0dc\uc6b0", 
+      "password": "$2a$12$z5BAZ8pLucCPOv0PqvFq4.gwkZHVS5ex8sjgX457H5pTDp.9yaWyi", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "choi@likelion.net", 
+      "mobile": "01093278733", 
+      "name": "\ucd5c\uc6a9\ucca0", 
+      "password": "$2a$12$fz2Bt5.CpxZ7fchZ.PtHJe15mmOLkC3BCu6UZye3SV4UO7fPMH1Oe", 
+      "role": "STAFF", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "wwww43211@gmail.com", 
+      "mobile": "01026234571", 
+      "name": "\uc2e0\uc2b9\uc218", 
+      "password": "$2a$12$WOfw61NJxb0OPXBE7a2uQeI/GmXZ14q6J/kBvFpkf.R6zD9vgroAq", 
+      "role": "USER", 
+      "school": "\uc6b4\uc601\uc9c4", 
+      "team": "\uc6b4\uc601\uc9c4"
+    }, 
+    {
+      "email": "skatkdgus7@daum.net", 
+      "mobile": "01099423069", 
+      "name": "\ub0a8\uc0c1\ud604", 
+      "password": "$2a$12$tO25fM/d5vyOe4ladpTAQOg9X5cTPQ4po7etNRBs9Fko/pXT.s5O2", 
+      "role": "LEADER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "lemmings1313@naver.com", 
+      "mobile": "01094214827", 
+      "name": "\uad8c\uc900\ud718", 
+      "password": "$2a$12$Rt2onW85bufnaUwVLfSLLuX4//9a68.a3NgWJ1fEpCInq2Ak8JH96", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "k352ex@naver.com", 
+      "mobile": "01052172271", 
+      "name": "\ubc15\ubbfc\uae30", 
+      "password": "$2a$12$ct1CJQi0in/m3YxQTkHbvuCezw83XOaZNG0bMpj8rMqaVSBrA3yhG", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "tradeking5@naver.com", 
+      "mobile": "01036689733", 
+      "name": "\ubc15\uc7ac\ud615", 
+      "password": "$2a$12$Lopj80ZKYnlYyERPi9JxDOMaO.G/jNmS5Bd6Q5rmgoCb0f0knhqPa", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "scshb2000@naver.com", 
+      "mobile": "01092615532", 
+      "name": "\uc11c\ud55c\ube48", 
+      "password": "$2a$12$IylYy4JVJv8tYEpfLaMgoON83vA.ypx4CO6/R3MtHEXT5kZGaFAiq", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "gtore14@outlook.com", 
+      "mobile": "01055412967", 
+      "name": "\uc774\uc7ac\ud6c8", 
+      "password": "$2a$12$ygX2lQAN0xq0kSOssfhaZuVzm7KWL9neRMIuQINxL7/3ao221L/KG", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "annartravel@gmail.com", 
+      "mobile": "01067688154", 
+      "name": "\uc774\uc9c0\ud604", 
+      "password": "$2a$12$Uao12LR42RSwtlOyPeESMOfVFDDVBc6mt8fcKD.VaJCn0GPVCT3aW", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "dlxotjde@naver.com", 
+      "mobile": "01033385587", 
+      "name": "\uc774\ud0dc\uc131", 
+      "password": "$2a$12$QlO4vr8fx2GGk23I.cs5Dej936OUGiTWDPMWdW0fZVTT1d5S3bE5u", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "onetable4@naver.com", 
+      "mobile": "01099115862", 
+      "name": "\ud55c\ub3d9\uc7ac", 
+      "password": "$2a$12$ZlGKjbjFDg6nN/va3swbouZpJhiSe43/K.wtcSvVNmWgJ1/M8ia6m", 
+      "role": "USER", 
+      "school": "\uc6d0\uad11\ub300\ud559\uad50", 
+      "team": "\uba4b\uc7c1\uc774 \ubd09\ud669\ucc98\ub7fc"
+    }, 
+    {
+      "email": "ck545@cornell.edu", 
+      "mobile": "01032913236", 
+      "name": "\uae40\ucc44\ubbfc", 
+      "password": "$2a$12$3zQgaSDh/X7.7Jwkdv9iCOb8iUmlHs4IpVkKFQ.F6NtA61O8IA8ui", 
+      "role": "LEADER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uad6c\ucea07pm"
+    }, 
+    {
+      "email": "clara6560@gmail.com", 
+      "mobile": "01042435229", 
+      "name": "\uad6c\uc18c\uc5f0", 
+      "password": "$2a$12$b8iqu2vKtch/SRMSyQ9Wz.wCLBGpXmlaJ8ZXlskvc0RRjdiukngqG", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uad6c\ucea07pm"
+    }, 
+    {
+      "email": "bkw1402@naver.com", 
+      "mobile": "01029424402", 
+      "name": "\ubc30\uadfc\uc6b0", 
+      "password": "$2a$12$6p.LPsdonq.I1Rp0Zvv3AeTvgqbehlOWH/yf9JakpIn2y6nRnsN42", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uad6c\ucea07pm"
+    }, 
+    {
+      "email": "ye.jinhyub@gmail.com", 
+      "mobile": "01039202772", 
+      "name": "\uc608\uc9c4\ud611", 
+      "password": "$2a$12$uf3uxnI5WgBtiAfNU2KWf.jUYX37KGjxssMSBrtLF2mcmzS.C16dS", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uad6c\ucea07pm"
+    }, 
+    {
+      "email": "tub97194@temple.edu", 
+      "mobile": "01089369396", 
+      "name": "\uc870\uc218\ubbfc", 
+      "password": "$2a$12$QZc3ascZXWG2wdstmuPuzeNYeljfNmQC61dRSfzzSNl69mkVuaute", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uad6c\ucea07pm"
+    }, 
+    {
+      "email": "km.cho.0105@gmail.com", 
+      "mobile": "01094013321", 
+      "name": "\uc870\uacbd\ubbfc", 
+      "password": "$2a$12$nkzIgKmYyUbhlrPEXLx28udHdkCitbYOnduXCH/bpEkvPwUkVpKsy", 
+      "role": "LEADER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\ub7fc\ucc98"
+    }, 
+    {
+      "email": "leescsc123@gmail.com", 
+      "mobile": "01072493738", 
+      "name": "\uc774\ud574\ucc2c", 
+      "password": "$2a$12$qaMJFrGU1b.Opky5QD.5Peztt2jb686JKy47FnQ8KM/94HBbv2IwK", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\ub7fc\ucc98"
+    }, 
+    {
+      "email": "ghanhanhan@gmail.com", 
+      "mobile": "01087115099", 
+      "name": "\ud55c\uac74\ud76c", 
+      "password": "$2a$12$ml7tuhRSesalYWqPc0fWUe3k31kbSGERh2h8/SVSU/cTOnx6fR5qW", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\ub7fc\ucc98"
+    }, 
+    {
+      "email": "shyu002@aucklanduni.ac.nz", 
+      "mobile": "01071043918", 
+      "name": "\ud604\uc2b9\ubbfc", 
+      "password": "$2a$12$Xj34ZepTfKUAl0C3p7npceoNGCDCtCorPk0RN8.WYBtlGDW4lX9Jq", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\ub7fc\ucc98"
+    }, 
+    {
+      "email": "endrjs@gmail.com", 
+      "mobile": "01068445085", 
+      "name": "\ubc15\uac74", 
+      "password": "$2a$12$g7nAtY4mRK67kEolBD30y.dhVtClmtmtpjGM3fKnevO/vuWFSXcOu", 
+      "role": "LEADER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uc774\uc7c1\uba4b"
+    }, 
+    {
+      "email": "econoyonsei@gmail.com", 
+      "mobile": "01029351448", 
+      "name": "\uc724\uc131\uaddc", 
+      "password": "$2a$12$1KxDj4elvIDK/4pydiqi8eDAu0yx8SweIbXE2kP4Sn4QmSn04/Fxe", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uc774\uc7c1\uba4b"
+    }, 
+    {
+      "email": "sungjay.chung@gmail.com", 
+      "mobile": "01093991302", 
+      "name": "\uc815\uc131\uc7ac", 
+      "password": "$2a$12$wkjvHwX8RsbsqsX5Me.n1eYfhFCN11lXyb3Zi3e4E/.08h88FpgmC", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uc774\uc7c1\uba4b"
+    }, 
+    {
+      "email": "yoojin2782@gmail.com", 
+      "mobile": "01099703213", 
+      "name": "\ucc44\uc720\uc9c4", 
+      "password": "$2a$12$67zvxxQFlfgV5K2dJm2jgOH5ldu7CfsAQq4HkFmfES/73OrIuLte.", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uc774\uc7c1\uba4b"
+    }, 
+    {
+      "email": "sunghohw@andrew.cmu.edu", 
+      "mobile": "01050644021", 
+      "name": "\ud669\uc131\ud638", 
+      "password": "$2a$12$uGpYcvqJcNOpH5yfe/dZY.EZDNIOabq8/YKHsquuxmQSlA79JA5Lq", 
+      "role": "USER", 
+      "school": "\uc720\ud559\uc0dd", 
+      "team": "\uc774\uc7c1\uba4b"
+    }, 
+    {
+      "email": "lisapark0707@gmail.com", 
+      "mobile": "01033608437", 
+      "name": "\ubc15\uc8fc\uc6d0", 
+      "password": "$2a$12$hMyO8e4ymy2AXzHtTXLnh.Bd3PHDXZZ6v0eyixjsx1YOwdVAo7srK", 
+      "role": "LEADER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ubc84\ud300"
+    }, 
+    {
+      "email": "portableusb@naver.com", 
+      "mobile": "01020310132", 
+      "name": "\uac15\uc608\uc2ac", 
+      "password": "$2a$12$x6fsXoJ.fJQJPlz6z80jKejUarXbhM59YUWOJXTtQeoQfFrT6CXvu", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ubc84\ud300"
+    }, 
+    {
+      "email": "sussikwag0810@gmail.com", 
+      "mobile": "01057724166", 
+      "name": "\uacfd\uc8fc\uc601", 
+      "password": "$2a$12$/CsgYwjEutEvqCZMzPaD2OZ3vbEEHWe2K2a8eAnUp6NI3/WkBzSLa", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ubc84\ud300"
+    }, 
+    {
+      "email": "wpyqwe@naver.com", 
+      "mobile": "01085776649", 
+      "name": "\uae40\ub2e4\ud61c", 
+      "password": "$2a$12$WeI7qVeOpT.NAinbbruypO8yI4Fo/S7r6QClDaZG5eaQsjcJf1UoG", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ubc84\ud300"
+    }, 
+    {
+      "email": "hay8723@naver.com", 
+      "mobile": "01055448723", 
+      "name": "\uc774\ud558\uc601", 
+      "password": "$2a$12$I81zeuF7ECx8ei5B7j3jsOwvWUTNTs7OHANA/.R1dphpSyXjuOLs6", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\ubc84\ud300"
+    }, 
+    {
+      "email": "jjo3535@naver.com", 
+      "mobile": "01028212538", 
+      "name": "\uc804\uc9c0\uc724", 
+      "password": "$2a$12$nF2OhEgw9AIRHH6YoPvpMO5As4vvfkBjRfkfE0/.wElBFmfVeKaNK", 
+      "role": "LEADER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc5b4\ud765\ud558\uc870"
+    }, 
+    {
+      "email": "showyoung1220@gmail.com", 
+      "mobile": "01064785953", 
+      "name": "\uc591\uc18c\uc601", 
+      "password": "$2a$12$NyvN.KA14nhLz2sZtxu97.rmNWkQydFqa8C7xUKtdw4q4wVZF0r/y", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc5b4\ud765\ud558\uc870"
+    }, 
+    {
+      "email": "dy.jenny.lee@gmail.com", 
+      "mobile": "01066691237", 
+      "name": "\uc774\ub3d9\uc5f0", 
+      "password": "$2a$12$wDLhpmrheVg3cNaoGUF0EeNni77Or01dGYilDZQdnS7XwNZlsWs4y", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc5b4\ud765\ud558\uc870"
+    }, 
+    {
+      "email": "leelotus9636@gmail.com", 
+      "mobile": "01087158597", 
+      "name": "\uc774\uc5f0\uc815", 
+      "password": "$2a$12$ZxKvv2Y430PzKhYrNNWI5OIXasgny4FpaRN/4ZNB3r6pE25Q09JJe", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc5b4\ud765\ud558\uc870"
+    }, 
+    {
+      "email": "durudung@naver.com", 
+      "mobile": "01046579372", 
+      "name": "\uc774\uc720\ubbfc", 
+      "password": "$2a$12$MPqaScDWjtYb/pYWY62rp.nipMcw3XKfS61/NQXL5E9ac.3VyTXjy", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc5b4\ud765\ud558\uc870"
+    }, 
+    {
+      "email": "1415048@naver.com", 
+      "mobile": "01039150684", 
+      "name": "\uc774\ub098\uacbd", 
+      "password": "$2a$12$iZrigRkkO12dIVXA3LGxReAPWP9n/hJBdJEZnlXWeN7RUNM5U5ysy", 
+      "role": "LEADER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc774\ub9ac\uc628"
+    }, 
+    {
+      "email": "christina.hjkang@gmail.com", 
+      "mobile": "01087770354", 
+      "name": "\uac15\ud604\uc815", 
+      "password": "$2a$12$U4nkTvJ6R3arILhmS/FF.uHbW.7Dmtp11CSmsE.D3kIjVJ.mAR8Ku", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc774\ub9ac\uc628"
+    }, 
+    {
+      "email": "ksa0356@gmail.com", 
+      "mobile": "01065430356", 
+      "name": "\uae40\uc131\uc544", 
+      "password": "$2a$12$7OhJW9.dX149eQsvmSyvs.2QLDKnd0xb3MRvTYgg63IRtCVIgh2yC", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc774\ub9ac\uc628"
+    }, 
+    {
+      "email": "roo_da@naver.com", 
+      "mobile": "01093299367", 
+      "name": "\ub958\ub2e4\uc778", 
+      "password": "$2a$12$GCCPKOEizD4Rlz5sIzmbUuaCJETSN0d4r1d95bYPDtd9ODMMG0ZIm", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc774\ub9ac\uc628"
+    }, 
+    {
+      "email": "1119sjj@gmail.com", 
+      "mobile": "01086469128", 
+      "name": "\uc870\uc218\uc9c4", 
+      "password": "$2a$12$5c32thUdwa/d6HFaG9YgsOwz63flQ15jPPSkaNZr82mH2H7cFytfO", 
+      "role": "USER", 
+      "school": "\uc774\ud654\uc5ec\uc790\ub300\ud559\uad50", 
+      "team": "\uc774\ub9ac\uc628"
+    }, 
+    {
+      "email": "torins@naver.com", 
+      "mobile": "01062752499", 
+      "name": "\ud5c8\ud0dc\uc6d0", 
+      "password": "$2a$12$zmCaKm8muMcbayZnXWo.XeHh6GoGvkm0Qg7M4v2A2ASlRG6XnzlkK", 
+      "role": "LEADER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8"
+    }, 
+    {
+      "email": "marong61@gmail.com", 
+      "mobile": "01093994015", 
+      "name": "\uae40\ud56d\uc6b0", 
+      "password": "$2a$12$3Ph2.FTv6S2JcBCnOLzylOOMHsIZ1kLF/jSdpbxmTDcykRzaVrfUy", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8"
+    }, 
+    {
+      "email": "wordplay.yj@gmail.com", 
+      "mobile": "01032443384", 
+      "name": "\uc11c\uc5ec\uc9c4", 
+      "password": "$2a$12$64xSH/mqLrcCrKsUwgWrWeVCKltxHQqemP73MsapE2U51UljmwMqu", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8"
+    }, 
+    {
+      "email": "tjdhksrb2@naver.com", 
+      "mobile": "01065496769", 
+      "name": "\uc11c\uc644\uaddc", 
+      "password": "$2a$12$r3bhRbVZ1S8rklZDtKZjx.bU3V0uig2SkBdVInTE9WzUfGpJZ6nIG", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8"
+    }, 
+    {
+      "email": "litejun24@gmail.com", 
+      "mobile": "01036154215", 
+      "name": "\uc7a5\uc11d\uc900", 
+      "password": "$2a$12$gB5zVgmg/QI1R/ARpDcvp.1lDX7eE/LAJtrq.7Ell/ZlbIwg80brO", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8"
+    }, 
+    {
+      "email": "sky930511@naver.com", 
+      "mobile": "01041785160", 
+      "name": "\uc9c4\uc138\uc900", 
+      "password": "$2a$12$l9ejMiC9JKpAps3TGFmDKOOlekHYsEpPhsrFh6VUBsKtkJWMaIpw.", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc11c\uc6b8"
+    }, 
+    {
+      "email": "hakgb11@naver.com", 
+      "mobile": "01026772637", 
+      "name": "\uc774\uac15\ud638", 
+      "password": "$2a$12$xw0K41sEtViK2dvh7NG7tuCJB4zlEf2o52kB8UBNT7FSjWOr2p/mu", 
+      "role": "LEADER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc778\ucc9c"
+    }, 
+    {
+      "email": "yoohoogun114@naver.com", 
+      "mobile": "01041975132", 
+      "name": "\uc720\ud638\uade0", 
+      "password": "$2a$12$Ztoj0tbZHA2MPCHLxTHuteodh0y7bbWepPW31MZ33BvPpd1AyvwNK", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc778\ucc9c"
+    }, 
+    {
+      "email": "mircom2002@gmail.com", 
+      "mobile": "01028211276", 
+      "name": "\uc784\uc9c0\uc6c5", 
+      "password": "$2a$12$58uigYLxSsXFovubaBXsA.2znH//k8GrdgnDd.LxJQBqbJxyCgURC", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc778\ucc9c"
+    }, 
+    {
+      "email": "kesakiyo@naver.com", 
+      "mobile": "01032200101", 
+      "name": "\ucc9c\ubbfc\ud638", 
+      "password": "$2a$12$5Us3xz4S6UHQcoMLpfx.HO1M8T8b7ogsW4q26Pj63fnVSxrraA4z2", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc778\ucc9c"
+    }, 
+    {
+      "email": "fielde7@gmail.com", 
+      "mobile": "01091641078", 
+      "name": "\ud55c\uc7ac\ud611", 
+      "password": "$2a$12$4ABWGP3eirU41VePR3EiAOeSFnVFaIamNLxi0UKHjWX.f/vyM92pG", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc778\ucc9c"
+    }, 
+    {
+      "email": "hdgyung@naver.com", 
+      "mobile": "01030894148", 
+      "name": "\ud669\ub300\uacbd", 
+      "password": "$2a$12$K5npaFjmZfBDZaodshBCVeb.mjzRRcIrcu1yB8nG.p303QAK6gG2S", 
+      "role": "USER", 
+      "school": "\uc778\ud558\ub300\ud559\uad50", 
+      "team": "\uc778\ucc9c"
+    }, 
+    {
+      "email": "bsm7878@naver.com", 
+      "mobile": "01087457983", 
+      "name": "\ubc31\uc2b9\ubbfc", 
+      "password": "$2a$12$eozFhbObMDpzVMk.rQiIC.sLFU62Ut1udUeXifp1LgzMNMt1WO88W", 
+      "role": "LEADER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc5b8"
+    }, 
+    {
+      "email": "seesun0507@naver.com", 
+      "mobile": "01050184516", 
+      "name": "\uc720\uc2dc\uc120", 
+      "password": "$2a$12$HNmgsWOcTwDWWBrfhPXu4.HQsf4XtiHrdwOq.GG0fU/zTXqW.3vZ6", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc5b8"
+    }, 
+    {
+      "email": "tjdudd2@naver.com", 
+      "mobile": "01044486527", 
+      "name": "\uc815\uc11c\uc601", 
+      "password": "$2a$12$QJdJRKYChrJ/dvOylPAR3OgY/n/DKrr5jlNEAw9Yv4aYQnnEqbJRG", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc5b8"
+    }, 
+    {
+      "email": "com5500@naver.com", 
+      "mobile": "01068080161", 
+      "name": "\uc815\uc601\ud638", 
+      "password": "$2a$12$ByncnqJoaMNuwb1qmGGURO2KJDG2/Mf1db3uNZx7iu38oGQtnRyTi", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc5b8"
+    }, 
+    {
+      "email": "jadoowangja@hanmail.net", 
+      "mobile": "01066266066", 
+      "name": "\uc815\ud574\uc778", 
+      "password": "$2a$12$2cZ3xYD/Ot.4U3WXrOJ1u.Td3V0OyEXyila9UK1Dwt70jmS5sQOxq", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\uc5b8"
+    }, 
+    {
+      "email": "hemal1004@naver.com", 
+      "mobile": "01032860408", 
+      "name": "\uc721\uc9c4\uba85", 
+      "password": "$2a$12$erWimCRMuo57noM5ry4wReEuqa.6THflccbXcyepCXgdy1/rKhIFq", 
+      "role": "LEADER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\ud06c"
+    }, 
+    {
+      "email": "kim951753@naver.com", 
+      "mobile": "01024222445", 
+      "name": "\uae40\uc2b9\ubbfc", 
+      "password": "$2a$12$toM2Xk8rZ3qFbnLsq/kX1uipcNGarKp1GRaLMb/BUQNJTB2aYQG7q", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\ud06c"
+    }, 
+    {
+      "email": "cloudfishh@naver.com", 
+      "mobile": "01028234236", 
+      "name": "\ubc15\uc18c\uc601", 
+      "password": "$2a$12$D6/ib00hr9WtUQ46MXW9AukG1ErkGT1ZOgYB.O2M2CZQZBj7ca5Ve", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\ud06c"
+    }, 
+    {
+      "email": "holystarhoon@gmail.com", 
+      "mobile": "01067300314", 
+      "name": "\uc815\uc131\ud6c8", 
+      "password": "$2a$12$uo4VVMZi8bZEL2wgdfwsOeLoPLjYD3F1IjlE.nHS0nO.crczDRgt2", 
+      "role": "USER", 
+      "school": "\uc804\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub77c\uc774\ud06c"
+    }, 
+    {
+      "email": "beatlemaniakih@gmail.com", 
+      "mobile": "01085454795", 
+      "name": "\uae40\uc77c\ud601", 
+      "password": "$2a$12$Faz2LR8hg8aShm9Zp2yNselG2qSU8vWtrlZIQd9GMgUvmux4k4Bou", 
+      "role": "LEADER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc1a1\uacf3\ub2c8"
+    }, 
+    {
+      "email": "treasuredami@naver.com", 
+      "mobile": "01071667285", 
+      "name": "\uae40\uc18c\ub2f4", 
+      "password": "$2a$12$gv3TIBWAYaB.SUzBLe6XfuF.NiO5TXTXM63/bgURHVhb9Oh7FyciW", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc1a1\uacf3\ub2c8"
+    }, 
+    {
+      "email": "park@jjunn.net", 
+      "mobile": "01025006410", 
+      "name": "\ubc15\uc900\uc601", 
+      "password": "$2a$12$BPgnEaTktijAU5mfmC9q3eOurcZDVcYr4EV4eEZrLtr5KkSffteqC", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc1a1\uacf3\ub2c8"
+    }, 
+    {
+      "email": "jang4604@gmail.com", 
+      "mobile": "01048204603", 
+      "name": "\uc7a5\uc120\uc625", 
+      "password": "$2a$12$kVbcrmWr1p6zGHzqTMc1we/izDIYkGfWaN./UKyIu9CUjL05nVpdK", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc1a1\uacf3\ub2c8"
+    }, 
+    {
+      "email": "1995hyunwoo@naver.com", 
+      "mobile": "01066511455", 
+      "name": "\uc815\ud604\uc6b0", 
+      "password": "$2a$12$uDiRx/G7/qAgIiXdGMHu7.RjzL4wuoKfshlyUNvZVN1/9TRGCENZ6", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc1a1\uacf3\ub2c8"
+    }, 
+    {
+      "email": "youthful2012@naver.com", 
+      "mobile": "01042436027", 
+      "name": "\uae40\uc6a9\uc7ac", 
+      "password": "$2a$12$.TM03xA4UKaGf/E6pSnf2OVzqz0Y/nzNc2NN.y9q5kMwoDyrKsczm", 
+      "role": "LEADER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc5b4\uae08\ub2c8"
+    }, 
+    {
+      "email": "sivatori@naver.com", 
+      "mobile": "01095820502", 
+      "name": "\uae40\uc7ac\ub450", 
+      "password": "$2a$12$bV1uuAoJUIDd7o.zHck3O.LysXrNgYE0.WQ4Lme8wQ1TT3rLsDJjW", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc5b4\uae08\ub2c8"
+    }, 
+    {
+      "email": "gskjhj@naver.com", 
+      "mobile": "01031572841", 
+      "name": "\uae40\uc9c0\ud601", 
+      "password": "$2a$12$Yl/L4wEO5HMchh7oFdAj6uBfXquOFbQ8nSk3QKMfCb.Zzfx02kVfS", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc5b4\uae08\ub2c8"
+    }, 
+    {
+      "email": "ygy526@naver.com", 
+      "mobile": "01050625595", 
+      "name": "\uc591\uc9c0\uc740", 
+      "password": "$2a$12$t6T.8TdrqDrggoBx54mxkuu2jxws4XKRvmG8PPYBC6g.89kQtj4EO", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc5b4\uae08\ub2c8"
+    }, 
+    {
+      "email": "tjdgus3537@naver.com", 
+      "mobile": "01083367125", 
+      "name": "\ud64d\uc131\ud604", 
+      "password": "$2a$12$65wYnu62HC6Cn.Nti3z51.V9a.d5yNjzCIBZBPHh.svxZsGVJYWeC", 
+      "role": "USER", 
+      "school": "\uc911\uc559\ub300\ud559\uad50", 
+      "team": "\uc0ac\uc790\uc5b4\uae08\ub2c8"
+    }, 
+    {
+      "email": "alsdud3315@naver.com", 
+      "mobile": "01083103759", 
+      "name": "\uc548\ubbfc\uc601", 
+      "password": "$2a$12$9JIC2ugVWzC4WXtMr24QSOlSPQIr0Tv96D7UCKxW1rgLxSGMNEh.C", 
+      "role": "LEADER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "DOHIT"
+    }, 
+    {
+      "email": "rkdmf14789@naver.com", 
+      "mobile": "01029728911", 
+      "name": "\uae40\uc900\ud601", 
+      "password": "$2a$12$uotrcvVRjNpCcwj4KcxxPOl0sBOaXU4aotUajN1GWpyW/LQNGnGre", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "DOHIT"
+    }, 
+    {
+      "email": "tu_k@naver.com", 
+      "mobile": "01077462213", 
+      "name": "\uae40\ud0dc\uc6b0", 
+      "password": "$2a$12$Vwef.orb.8a0GaqWNjhC9eXH7ltztPjPpCX2pW27KBbdopScK5tO2", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "DOHIT"
+    }, 
+    {
+      "email": "familysa@naver.com", 
+      "mobile": "01074261270", 
+      "name": "\uc0ac\uaddc\uc9c4", 
+      "password": "$2a$12$mXiUclEt3W.Slh6F2P3NluTq.5gaFv.Vv7D3yd5pAozl0vON7/rEW", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "DOHIT"
+    }, 
+    {
+      "email": "kiss9815@naver.com", 
+      "mobile": "01076225850", 
+      "name": "\uc5c4\uc900\ud0dc", 
+      "password": "$2a$12$v6BOFsay9XJAaJkeZA1CUuwYBLLZX1MrTg4HwsAaMQZfBtadPHajO", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "DOHIT"
+    }, 
+    {
+      "email": "eatdesignlove@gmail.com", 
+      "mobile": "01034854685", 
+      "name": "\uc720\uc815\uc2dd", 
+      "password": "$2a$12$GNheE.yRDeoWowXVJGgLje.D45XtFIBJNOSpVkuPf79Ax6MaaQC.m", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "DOHIT"
+    }, 
+    {
+      "email": "tlawndyd0901@naver.com", 
+      "mobile": "01031264417", 
+      "name": "\uc2ec\uc8fc\uc6a9", 
+      "password": "$2a$12$K96j4iU2qU.fZ.lbTRuZXOvpyYxv2LpvPP74grmg8CDCu59NixJRu", 
+      "role": "LEADER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub450\ud79b\ub450\ud79b\uce04\uc6b0"
+    }, 
+    {
+      "email": "h2k9161@gmail.com", 
+      "mobile": "01034579161", 
+      "name": "\uae40\ud638\ud604", 
+      "password": "$2a$12$QOF02hn.KP/aM1dlCuBu2ert1yODQMJafg8KD1Kmd/GlHkU0B7dbi", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub450\ud79b\ub450\ud79b\uce04\uc6b0"
+    }, 
+    {
+      "email": "jzxcvbn@naver.com", 
+      "mobile": "01098426886", 
+      "name": "\ub958\uc131\ud638", 
+      "password": "$2a$12$83Qezpy2rPLOMV8.jULJ4ugyeT1h2a8hxF/vOZENmawA/CYoPL.vC", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub450\ud79b\ub450\ud79b\uce04\uc6b0"
+    }, 
+    {
+      "email": "dbstjq91@gmail.com", 
+      "mobile": "01044666001", 
+      "name": "\uc1a1\uc724\uc12d", 
+      "password": "$2a$12$vNmE0takewSq.gJXdmm/dO6MCxJXCSwmy9pj/8UgJAkR2a6459tBG", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub450\ud79b\ub450\ud79b\uce04\uc6b0"
+    }, 
+    {
+      "email": "zerovsco@gmail.com", 
+      "mobile": "01032751075", 
+      "name": "\uc774\uc0c1\ud6c8", 
+      "password": "$2a$12$v0kFAzYcbEw9ZEHAOJ2sYOZ14QW.PdTijTEiiUTdsmtQMPaLjiDsi", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub450\ud79b\ub450\ud79b\uce04\uc6b0"
+    }, 
+    {
+      "email": "lsh00124@naver.com", 
+      "mobile": "01029995976", 
+      "name": "\uc774\uc0c1\ud6c8", 
+      "password": "$2a$12$jXnb.J.D9wMpu6s0iUFOxuDMXvBvF8OnO./5vqoGIC7rpaq/ajUOW", 
+      "role": "USER", 
+      "school": "\ucda9\ub0a8\ub300\ud559\uad50", 
+      "team": "\ub450\ud79b\ub450\ud79b\uce04\uc6b0"
+    }, 
+    {
+      "email": "um135@naver.com", 
+      "mobile": "01090768199", 
+      "name": "\uc5c4\ud61c\uc120", 
+      "password": "$2a$12$RtBdnk1VIJqcqO0hvnPZhO.eEKqPE.5JcPtZuB.MZ0S1DEtiA4JvO", 
+      "role": "LEADER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "waterhan1234@naver.com", 
+      "mobile": "01046880973", 
+      "name": "\uae40\uc218\ud55c", 
+      "password": "$2a$12$0UFW3xsEzeopVibwobGrkOLYPjbaOoUp7gfiwoLx3yTXGhZ667R0O", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "gusals777@naver.com", 
+      "mobile": "01095920195", 
+      "name": "\uae40\ud604\ubbfc", 
+      "password": "$2a$12$1vp44hGOFrUmpxC16GcIH.5MjaVSTJWTKr8ZLQPdjIE.MZTHLy4Wi", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "psc1956@naver.com", 
+      "mobile": "01084881956", 
+      "name": "\ubc15\uc0c1\ucca0", 
+      "password": "$2a$12$Gw4MDsr1N/kmOhFX46cKZuSYjlsSpEMYm0dvNHb4AueS9THQ0Wwda", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "yswldus99@naver.com", 
+      "mobile": "01077610084", 
+      "name": "\ubc15\uc9c0\uc5f0", 
+      "password": "$2a$12$x7Pps4gf0AuFguZH0M5Fmu0SMSLtXBHCcBfFKf6pgP/HyijOYIOfK", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "dfdfsfdf@naver.com", 
+      "mobile": "01076636326", 
+      "name": "\uc724\uc131\uc911", 
+      "password": "$2a$12$tHZjM/MeesnB5oBI8WCKgOH0INRVmzU/bZthg9yrV4bOuulRNYgHe", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "supurjsgml1@naver.com", 
+      "mobile": "01038432390", 
+      "name": "\uc774\uac74\ud76c", 
+      "password": "$2a$12$TdenRCRKbHfWpUvcow4MC.t1.L3BkNQisFcZnX3mCae71YqjojTtK", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "plazmapxt@naver.com", 
+      "mobile": "01036057437", 
+      "name": "\uc774\ubcd1\ud638", 
+      "password": "$2a$12$rK.RYuB.v2nauhhIitXhr.0qn1skPUxAu9eRwR6TD2rghU8ZScQfC", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "dlxowls779@naver.com", 
+      "mobile": "01089894686", 
+      "name": "\uc774\ud0dc\uc9c4", 
+      "password": "$2a$12$mq5wrz6dAM34ygzeg3hnMOCUuWyRAWV8WCjWTrc5z1w0EDwfghE7i", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "gtsy20@naver.com", 
+      "mobile": "01049830724", 
+      "name": "\uc870\ud61c\uc9c4", 
+      "password": "$2a$12$JMgxXIaDSNLBqZVTHAucXuGv03KA0bPcdHALW9K1V.t..ntP9zgpO", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "damian2002@naver.com", 
+      "mobile": "01052784026", 
+      "name": "\ud64d\uc11d\ubbfc", 
+      "password": "$2a$12$4uX6ulPPiGxfl7hq6rVENeaIFegIVMOfiFQOVTeZlrtmvr/9Av/gO", 
+      "role": "USER", 
+      "school": "\ud3c9\ud0dd\ub300\ud559\uad50", 
+      "team": "TIP+"
+    }, 
+    {
+      "email": "shapley_aldebaran@kaist.ac.kr", 
+      "mobile": "01037338366", 
+      "name": "\ubc15\uc9c0\uc6b0", 
+      "password": "$2a$12$AYABMZ.DDL5xt..8ZVdHKeXHSYBgLh2TntqOdcA3suFGGNteE/npa", 
+      "role": "LEADER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\ube44\ucf1c\ubd10\ub0b4\uac00\uc9e4\uac8c"
+    }, 
+    {
+      "email": "kuksugen@kaist.ac.kr", 
+      "mobile": "01023289715", 
+      "name": "\uad6d\uc218\uadfc", 
+      "password": "$2a$12$lpMQpIteAFnZxoKJpv8rT.ExXAHJdSSDVFKqT5QSR.Vd0NZ0gaarS", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\ube44\ucf1c\ubd10\ub0b4\uac00\uc9e4\uac8c"
+    }, 
+    {
+      "email": "springkjw@gmail.com", 
+      "mobile": "01054507196", 
+      "name": "\uad8c\uc7ac\uc6d0", 
+      "password": "$2a$12$0ujvv9kI0x/sUQWtk0GSZOq18IwxMzURi.3OB5IXHZQ1CgEIIIQnq", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\ube44\ucf1c\ubd10\ub0b4\uac00\uc9e4\uac8c"
+    }, 
+    {
+      "email": "kula-d@hanmail.net", 
+      "mobile": "01035162365", 
+      "name": "\ubc15\uad11\ud638", 
+      "password": "$2a$12$faBYdY5n9zTkLVawCeQXWOAkhZlOVhcqTU.ZMvYo90AGTi9VtODiS", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\ube44\ucf1c\ubd10\ub0b4\uac00\uc9e4\uac8c"
+    }, 
+    {
+      "email": "dydtnrkwkd@kaist.ac.kr", 
+      "mobile": "01033274084", 
+      "name": "\ubc31\uc6a9\uc218", 
+      "password": "$2a$12$RjqlTrcQwVXeFm5PI6Y13OXSnR5Lu54gqsZ6Gs9HJvTWtkxJHmyAy", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\ube44\ucf1c\ubd10\ub0b4\uac00\uc9e4\uac8c"
+    }, 
+    {
+      "email": "h2oche22@gmail.com", 
+      "mobile": "01041119357", 
+      "name": "\uc548\uc2b9\ubbfc", 
+      "password": "$2a$12$n/wSVUCFVOg9xWU0Mgn2xedlN5K8/ugcWsiEE68xY3m7rRWugvYwq", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\ube44\ucf1c\ubd10\ub0b4\uac00\uc9e4\uac8c"
+    }, 
+    {
+      "email": "milkthistle90capsules@gmail.com", 
+      "mobile": "01099661344", 
+      "name": "\uae40\ubcd1\ucca0", 
+      "password": "$2a$12$RNUzmHnz4lGFRNscJjKlEOy780W/UuzYux8.1wbwAU8EqohUWjiz2", 
+      "role": "LEADER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\uc549\uc544\ubd10\ub2c8\uac00\uc9dc\uc870"
+    }, 
+    {
+      "email": "seongha19@gmail.com", 
+      "mobile": "01045936247", 
+      "name": "\ubc15\uc131\ud558", 
+      "password": "$2a$12$yJF2Xl9mMm6MEHCkQsGBuOe5ktVGNpGYhYS3YmjfgX6FMprRzf9qy", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\uc549\uc544\ubd10\ub2c8\uac00\uc9dc\uc870"
+    }, 
+    {
+      "email": "jwp0419@kaist.ac.kr", 
+      "mobile": "01094883775", 
+      "name": "\ubc15\uc8fc\uc6d0", 
+      "password": "$2a$12$YB61rfk6SvalUSKvotHKxu2MVk8w8N3QRSxf98.C9LX8FfPLXWFaq", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\uc549\uc544\ubd10\ub2c8\uac00\uc9dc\uc870"
+    }, 
+    {
+      "email": "ojsoym@kaist.ac.kr", 
+      "mobile": "01046059570", 
+      "name": "\uc624\uc7a5\uc12d", 
+      "password": "$2a$12$.GgrOSN7GgGA6wVRYcyiXemlO0TAdpGMitElsD2Le08fXezYoJp1C", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\uc549\uc544\ubd10\ub2c8\uac00\uc9dc\uc870"
+    }, 
+    {
+      "email": "stymjs0515@googlemail.com", 
+      "mobile": "01033189684", 
+      "name": "\uc774\uc7ac\uc11c", 
+      "password": "$2a$12$PiLARtkdzuZxl91b/dmVcuCxWolND/CBGL7KzLABS5HZnvzxwXpwa", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\uc549\uc544\ubd10\ub2c8\uac00\uc9dc\uc870"
+    }, 
+    {
+      "email": "pinno12@kaist.ac.kr", 
+      "mobile": "01091357110", 
+      "name": "\uc815\uc2b9\uc6d0", 
+      "password": "$2a$12$tbK2wNBCTjVItsBr6IpCIeOS1QY91CUyhJkLAsjatPRJh4FM65Rr6", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0", 
+      "team": "\uc549\uc544\ubd10\ub2c8\uac00\uc9dc\uc870"
+    }, 
+    {
+      "email": "garammon@gmail.com", 
+      "mobile": "01034363253", 
+      "name": "\uc548\uac00\ub78c", 
+      "password": "$2a$12$eqDZcujeKB5lqk8Ey8Cvk.DrlTcQMgcjMnqlX.u9PKqgIzAJPl4bu", 
+      "role": "LEADER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "rkswlgp@naver.com", 
+      "mobile": "01043039212", 
+      "name": "\ubc15\uc9c0\ud61c", 
+      "password": "$2a$12$mM.ePzXBjZr/Z7SmJG/yDOsyFjnKuueO1XRltspZtez73DqifiuuG", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "sooo6612@naver.com", 
+      "mobile": "01045556612", 
+      "name": "\uc774\uc218\uc9c4", 
+      "password": "$2a$12$QqwpVu6W4FVY1Z7JhXNJ5e5LW51knwO4JVhlcKSIqOy/bhJM1Zft2", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "24-7@kaist.ac.kr", 
+      "mobile": "01065514388", 
+      "name": "\uc774\uc724\uc11d", 
+      "password": "$2a$12$j4w/ErsIy147Tr3wkSV.kOCRtQgWlLsIBIkkESI.bNyPMD5TRMony", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "dkrak5105@naver.com", 
+      "mobile": "01031598128", 
+      "name": "\uc774\uc9c4\uc544", 
+      "password": "$2a$12$NAFjoFr84KXwuKJGrEG75eVPePxBMFDEdrZy86qBQuB1ZHMB4XUZy", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "thisisjungjiwon@gmail.com", 
+      "mobile": "01099183821", 
+      "name": "\uc815\uc9c0\uc6d0", 
+      "password": "$2a$12$a.1y1y6v5cZRo7dYd./3l.Ijq760An./JvujJ2sFPQvAK.ERmGriS", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "nowkg@naver.com", 
+      "mobile": "01032148302", 
+      "name": "\ucd5c\ub098\uc6b1", 
+      "password": "$2a$12$/UamK1EYE84VWDPrKoUQ.On0Y7aItm22CbNgvSTX8T7m3gNgv74sS", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ub9e4\ub4dc\ucf54\ub4dc"
+    }, 
+    {
+      "email": "mir9559@gmail.com", 
+      "mobile": "01095594588", 
+      "name": "\uc591\ud55c\uc2ac", 
+      "password": "$2a$12$guXvL4XelmS.6u64ggnMl.uz77x8AySP9YwXb32jRmcEGXl8L9hw6", 
+      "role": "LEADER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "kang.seulmi@gmail.com", 
+      "mobile": "01040142179", 
+      "name": "\uac15\uc2ac\ubbf8", 
+      "password": "$2a$12$e/fdkOlLwo81cfC08VZ1Repfui6HPo.8GRUjSEyZ2nIJnGQPUI/ZG", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "tt7292@naver.com", 
+      "mobile": "01031642752", 
+      "name": "\uae40\uc740\uc9c4", 
+      "password": "$2a$12$y8qjLPTyHQNe29wM3eT5puHPKE2F9aK.zT.4Uax1K4Y4suUWlHBLa", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "goun_p@naver.com", 
+      "mobile": "01044455994", 
+      "name": "\ubc15\uace0\uc6b4", 
+      "password": "$2a$12$Ny0dtWBPmMpT2gmlXwYT2ORNugrsUzFXPV/TygZ6wWjEe.7AZYI9K", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "iwantus@hanmail.net", 
+      "mobile": "01044087627", 
+      "name": "\ubc15\ud604\uc900", 
+      "password": "$2a$12$1lUVPXKTfMBf5R9mfwcpCeg8ICRXa6xO2LFiQKCai/R9SHIVMdcFm", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "skahn0520@gmail.com", 
+      "mobile": "01090745317", 
+      "name": "\uc548\uc218\uacbd", 
+      "password": "$2a$12$42WwT.och3F21rFr/.7XjO.xCQEMQsm/0nn8.DM0QC4jS9uNIsIn.", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "seven2917@naver.com", 
+      "mobile": "01040422917", 
+      "name": "\uc774\uc9c0\uc740", 
+      "password": "$2a$12$/EAPPDTmjBzofUzdqzj2ZePa8lyonrNbQ6FogxuadoCQTKnHIyNwO", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc608\uc220\uc885\ud569\ud559\uad50", 
+      "team": "\ud050\ud2f0\ucf54\ub4dc"
+    }, 
+    {
+      "email": "shkim6827@naver.com", 
+      "mobile": "01028028858", 
+      "name": "\uae40\uc2b9\ud68c", 
+      "password": "$2a$12$jKNRXyP2mXyWzkoJ3R.LMOJTwL4XFamu3No0b7AHgAXeyX7LHe/UG", 
+      "role": "LEADER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\uc804"
+    }, 
+    {
+      "email": "graceanimok@gmail.com", 
+      "mobile": "01076593006", 
+      "name": "\uae40\ud55c\uc194", 
+      "password": "$2a$12$573owehfocg/N2B3C8QGWeGXfKI1NQNXJ7lZMOxn.szWIvLvPCKxC", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\uc804"
+    }, 
+    {
+      "email": "displays0711@gmail.com", 
+      "mobile": "01051067011", 
+      "name": "\ubc15\uc0c1\uc900", 
+      "password": "$2a$12$C4/5kjm.zrgKOvOzwij5henJb1469r6wAVnjS8YJSyCWjGjQkfLsC", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\uc804"
+    }, 
+    {
+      "email": "soyoen0321@gmail.com", 
+      "mobile": "01087663201", 
+      "name": "\ubc15\uc18c\uc5f0", 
+      "password": "$2a$12$t28O/FZi6qBKM6koFr9q3OJfdDA2lfzvitBXFshaVB6qm67D625ny", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\uc804"
+    }, 
+    {
+      "email": "zzgonhzz@gmail.com", 
+      "mobile": "01094767629", 
+      "name": "\uc774\ub0a8\ud638", 
+      "password": "$2a$12$YDgi3P36TRhHKvnMOFvcuuPX83cCxXAwoq2D2wuqQ5pIRpFtGE5X.", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\uc804"
+    }, 
+    {
+      "email": "jamie6113@naver.com", 
+      "mobile": "01099016113", 
+      "name": "\uc784\uc2b9\ubbfc", 
+      "password": "$2a$12$dlNGdxKe1FfAUnAiFvNa0e9m5VP.BCuPTQMbdbTuRxdidBcImj3KS", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\uc804"
+    }, 
+    {
+      "email": "jrmjng@gmail.com", 
+      "mobile": "01092752579", 
+      "name": "\uc815\uc9c4\ud615", 
+      "password": "$2a$12$qSYv0xfS4ROhJo1wq5nw8.pBIQfoMe0MsVR.fjE2FfhFlW5Gw0pyq", 
+      "role": "LEADER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\ud6c4"
+    }, 
+    {
+      "email": "gimjaewoong@hanmail.net", 
+      "mobile": "01042490129", 
+      "name": "\uae40\uc7ac\uc6c5", 
+      "password": "$2a$12$nuGWYfFCS.PhmXucDc60Y.KO4bIHD.G7plw7rMenTp9imVT81aS.W", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\ud6c4"
+    }, 
+    {
+      "email": "robinestar@gmail.com", 
+      "mobile": "01094026049", 
+      "name": "\ubc31\uc2b9\uc8fc", 
+      "password": "$2a$12$gbgraxIH8Bn5bJG9UjABAuU7gUKdXM8C/GXhjzLpGyjmBKO/E2gPu", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\ud6c4"
+    }, 
+    {
+      "email": "jeonginseok86@gmail.com", 
+      "mobile": "01026393855", 
+      "name": "\uc815\uc778\uc11d", 
+      "password": "$2a$12$ERenV9bOJ0.TLKBEq4BK/O92wxU3W.Lq.TNhr7PebVfPvhbcZlQTO", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\ud6c4"
+    }, 
+    {
+      "email": "dnduddk777@gmail.com", 
+      "mobile": "01039039087", 
+      "name": "\ucd5c\uc6b0\uc601", 
+      "password": "$2a$12$VbPC0OM6v4XM.1sjDgpzmONQpJJ/VniZjCqS0rUvmCoJ5Wx9CRQsa", 
+      "role": "USER", 
+      "school": "\ud55c\uad6d\uc678\uad6d\uc5b4\ub300\ud559\uad50", 
+      "team": "\uc624\ud6c4"
+    }, 
+    {
+      "email": "indra622@gmail.com", 
+      "mobile": "01036444105", 
+      "name": "\ubc15\ud638\uc131", 
+      "password": "$2a$12$mufbfqSE8NRvdpF0QOUNsuZEeGUV.8EKMPzJLzJRyR66uG1hG.NVC", 
+      "role": "LEADER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ub450\ud77f\ub450\ud77f Chu~\u2665"
+    }, 
+    {
+      "email": "sophiek1127@gmail.com", 
+      "mobile": "01027666703", 
+      "name": "\uae40\uc560\uc9c4", 
+      "password": "$2a$12$.Do1FZ9eSiBku6f9puAVxOELatiuTWUmVYq1eARerv2P4kpVmkNRq", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ub450\ud77f\ub450\ud77f Chu~\u2665"
+    }, 
+    {
+      "email": "dia878@hanmail.net", 
+      "mobile": "01020222730", 
+      "name": "\uae40\uc778\ud658", 
+      "password": "$2a$12$Q4hSOpG4u6jQ/Fi/UFYenOAYAhWm2SsS7XRsKS/9MTkNL8vu4tl1y", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ub450\ud77f\ub450\ud77f Chu~\u2665"
+    }, 
+    {
+      "email": "dltkdi173@gmail.com", 
+      "mobile": "01050912131", 
+      "name": "\uc774\uc0ac\uc57c", 
+      "password": "$2a$12$8S0YTdVPX0h1U3NTL.TBhOZ628b2SkbKvDH3lmhnN89x7Bk5XcpMK", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ub450\ud77f\ub450\ud77f Chu~\u2665"
+    }, 
+    {
+      "email": "mattew.chanhee.lee@gmail.com", 
+      "mobile": "01088895645", 
+      "name": "\uc774\ucc2c\ud76c", 
+      "password": "$2a$12$6/ebmaYlqIGdcUqlBbwBw.Ft1Nj1pxPL3hqhErLNDZsesZs.rEkeO", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ub450\ud77f\ub450\ud77f Chu~\u2665"
+    }, 
+    {
+      "email": "cwa622@gmail.com", 
+      "mobile": "01049343703", 
+      "name": "\ucc28\uc6b0\uc544", 
+      "password": "$2a$12$WwEqIIN.nJtsVachLIGaZOWfNS7I6JisNM0C/cMjW3UbBcURuIv9.", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ub450\ud77f\ub450\ud77f Chu~\u2665"
+    }, 
+    {
+      "email": "rfrost77@gmail.com", 
+      "mobile": "01089665832", 
+      "name": "\uc774\uc2b9\ubbfc", 
+      "password": "$2a$12$YLrpgtiRkRk2aEXwAL0vruHRFg6a4eG8oXdpPAV9w5knjN5IbH826", 
+      "role": "LEADER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "maki@naver.com", 
+      "mobile": "01020103103", 
+      "name": "\uae40\uc2dc\uc5f0", 
+      "password": "$2a$12$VKP0J0.7H1QZuldZ58NSz.T4tDiI9akt5TGH9BpNBZU7tHXOKt33i", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "eunji91park@gmail.com", 
+      "mobile": "01066811136", 
+      "name": "\ubc15\uc740\uc9c0", 
+      "password": "$2a$12$2zzewaO1EgzuzGD4XoN7l.JzkWstMppG49PXbZDV6WM5ohmK.u2ay", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "minyelee11@gmail.com", 
+      "mobile": "01020158382", 
+      "name": "\uc774\ubbfc\uc608", 
+      "password": "$2a$12$po/3PuYjsZH0YtNl320xneCEy1n3gGCvdiK.4hkIE5.0JvXO/kFzG", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "violet9324@gmail.com", 
+      "mobile": "01030719324", 
+      "name": "\uc774\uc18c\ud604", 
+      "password": "$2a$12$YX/yZVOwg3ud3w1szS.wTOUnZMi5uEy/ILnyvxH5ZNdY32h3hYAci", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "aaenyx2@dgist.ac.kr", 
+      "mobile": "01089759508", 
+      "name": "\uc774\uc778", 
+      "password": "$2a$12$MTo.Q/PUQ8devmY92fm8yuJ/BQ/egtN70UJLNE78WjzkjPxsamxVW", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "frogramo@naver.com", 
+      "mobile": "01089232511", 
+      "name": "\uc774\uc815\ube48", 
+      "password": "$2a$12$RwfYpUNhuVbrLLPJQeTHWeyPa.pxan4f82i8IkJ0YKH6AoJ794sku", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "beautycho511@daum.net", 
+      "mobile": "01034690511", 
+      "name": "\uc870\uc7ac\uacbd", 
+      "password": "$2a$12$wxFFzpe/TbulqN1rSDN/i.ZltPvvGHASvgwvNLm3s/SbigkDAr4QC", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "hy.tae90@gmail.com", 
+      "mobile": "01026580892", 
+      "name": "\ud0dc\ud559\uc6a9", 
+      "password": "$2a$12$v6ZT.gXTXXsQXEqcOw707uJHmOGYTMsqILWYY2bDawtxlwGAndxuu", 
+      "role": "USER", 
+      "school": "\ud55c\ub3d9\ub300\ud559\uad50", 
+      "team": "\ud55c\ub3d9\uc11c\uc6b8"
+    }, 
+    {
+      "email": "brillante91@naver.com", 
+      "mobile": "01072752782", 
+      "name": "\uac15\ubcd1\uc6b1", 
+      "password": "$2a$12$0oBQv5uZIt4odRkaSnW9DuaOt.p1afSWfKq5HQtZvzvHKbD5SUS0.", 
+      "role": "LEADER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "k983135@naver.com", 
+      "mobile": "01025812816", 
+      "name": "\uae40\uc0c8\ubd04", 
+      "password": "$2a$12$PZWrPMUueFgS6UMS5A4BRuE33Fx7HLkomIZnKAtG1E.iXlGqi4b96", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "jpark1607@gmail.com", 
+      "mobile": "01030772191", 
+      "name": "\ubc15\uc9c0\ubbfc", 
+      "password": "$2a$12$SvdRhmUCiQQELOO9uno57uJWQ8.EgQh/yT5kEgwgVX0eH.1zB8J3m", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "korea_syh@naver.com", 
+      "mobile": "01053841579", 
+      "name": "\uc1a1\uc601\ud604", 
+      "password": "$2a$12$zBbUIxfJGTi9CcjyuVW1ceAYo7xV8pGhaBH.yvv9af1PNI1sbtZpO", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "anbj1567@naver.com", 
+      "mobile": "01088741567", 
+      "name": "\uc548\ubcd1\uc8fc", 
+      "password": "$2a$12$wCdRZXtFGFoF0uunzBmW5eXyEHO1UGKnsa88HuOBefP1KAGLtWtMW", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "umioh1109@gmail.com", 
+      "mobile": "01025248904", 
+      "name": "\uc624\uc720\ubbf8", 
+      "password": "$2a$12$lUHYb5Etc/yj6pHchCUJy.hXhB.X90ssUoi/k29nyr.vzqDq1GSg6", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "binaryrain01@gmail.com", 
+      "mobile": "01027586107", 
+      "name": "\uc774\uc9c4\uc6b0", 
+      "password": "$2a$12$TYOAe/aTZ0bIVAeyJYDWF.HBI0TQE3xBef1C0g.rNTKnjLmsYYit.", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\ub300!"
+    }, 
+    {
+      "email": "ds3dxf@hanmail.net", 
+      "mobile": "01097176272", 
+      "name": "\uae40\ubbfc\uc131", 
+      "password": "$2a$12$mXpi9oiOWpa5l1py5Blx0.tZgNOWmHJoAYmnzz8/YXlzkUvXH1D8q", 
+      "role": "LEADER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\uc591?"
+    }, 
+    {
+      "email": "kdo1002@hanyang.ac.kr", 
+      "mobile": "01042202282", 
+      "name": "\uae40\ub3c4\ud604", 
+      "password": "$2a$12$NMEEyEDEtxQC7ersK2GQNOkUcbFEs5sJkoLPks4ad4mxaZwROJ.2S", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\uc591?"
+    }, 
+    {
+      "email": "minakim0715@gmail.com", 
+      "mobile": "01051043009", 
+      "name": "\uae40\ubbfc\uc544", 
+      "password": "$2a$12$xFDOZ7E6c/urVkmm5IwOxuGvPQZglVjq/NniS4zz04HV6mXmVxPxu", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\uc591?"
+    }, 
+    {
+      "email": "mjmj1005@naver.com", 
+      "mobile": "01045804264", 
+      "name": "\uae40\ubbfc\uc9c0", 
+      "password": "$2a$12$6TdtZQW0ZKVKG81dzpoNGuPQGtk/0WMIMdqziE6pLri3ic4kWfwlS", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\uc591?"
+    }, 
+    {
+      "email": "yoon2959@naver.com", 
+      "mobile": "01074472959", 
+      "name": "\ubc30\uc724\uc131", 
+      "password": "$2a$12$LQl9C/TzlmJEYri.VNMqt.nNmiHuznx8zuTPz.UGgRtDErkbFClwm", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\uc591?"
+    }, 
+    {
+      "email": "sunnyree10@naver.com", 
+      "mobile": "01032438790", 
+      "name": "\uc774\uc120\ud0dc", 
+      "password": "$2a$12$KJb9jJRWmCzuJ7PFLBVj8eWOBY6VajhUbcYRCJlVl6HqmkzP1u5rS", 
+      "role": "USER", 
+      "school": "\ud55c\uc591\ub300\ud559\uad50", 
+      "team": "\ucf54\ub529\ud55c\uc591?"
+    }
+  ]
+}

@@ -59,14 +59,14 @@ class SharingController < ApplicationController
     @post.ischeck = 0
     
     if verify_recaptcha(:model => @post) && @post.save
-      @temp = Bitly.client.shorten('https://share-numbers-cannalee90.c9.io/sharing/reassure/' + @post.id.to_s)
+      @temp = Bitly.client.shorten('http://share.likelion.net/sharing/reassure/' + @post.id.to_s)
 
       #current_user & sender = 요청한 사람
       #receiver = 요청받은 사람
       
       lms_user = 'likelion'
       lms_password = 'likelion1111'
-      msg = @post.context + "\n번호공개의 동의하시면 다음 링크를 클릭해주세요" + @temp.short_url + current_user.name
+      msg = @post.context + "\n번호공개의 동의하시면 다음 링크를 클릭해주세요  " + @temp.short_url + current_user.name
       title  = "멋쟁이 사자의 "  + current_user.name + "님이 보낸 문자입니다" ##문자 메시지
       
       h = Hash.new

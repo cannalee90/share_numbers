@@ -66,7 +66,7 @@ class SharingController < ApplicationController
       
       lms_user = 'likelion'
       lms_password = 'likelion1111'
-      msg = @post.context + "\n번호공개의 동의하시면 다음 링크를 클릭해주세요  " + @temp.short_url + current_user.name
+      msg = @post.context + "\n번호공개의 동의하시면 다음 링크를 클릭해주세요  " + @temp.short_url
       title  = "멋쟁이 사자의 "  + current_user.name + "님이 보낸 문자입니다" ##문자 메시지
       
       h = Hash.new

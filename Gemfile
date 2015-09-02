@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'capistrano-rails'
 gem 'capistrano-passenger'
-
+gem "recaptcha"
 gem 'bitly'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'

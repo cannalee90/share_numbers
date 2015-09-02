@@ -1,21 +1,15 @@
-
-<div class= "row">  
-  <div class = "col-md-8 col-md-offset-2">
+<div class = "container">
+  <div class= "row">  
     <div class="list-group">
-
       <table class = "table" style = "background-color:white">
-       <p class ="inform_describe">Messages </p>
         <thead>
-          <th>매세지 내용</th>
+          <th class = "text-center col-lg-1">상태</th>
+          <th>내용</th>
           <th>받은 사람</th>
-          <th class = "text-right">상태&nbsp&nbsp&nbsp</th>
-          
         </thead>
           <%@user.posts.each do |p| %>
             <tr>
-              <td ><%=p.context[0...15] %></td>
-              <td ><%=User.find(p.receiver_id).name%></td>
-              <td class = "text-right">
+            <td class = "text-center col-lg-1r">
                 <%if p.ischeck == 1%>
                   <button class = "btn btn-danger  btn-sm">거절</button>
                 <%elsif p.ischeck == 2%>
@@ -24,9 +18,11 @@
                   <button class = "btn btn-default btn-sm">대기</button>
                 <%end%>
               </td>
+              <td ><%=p.context[0...30] %></td>
+              <td ><%=User.find(p.receiver_id).name%></td>
             </tr>
           <%end%>
       </table>
     </div>     
-  </div>
+
 </div>

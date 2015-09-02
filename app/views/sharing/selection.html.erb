@@ -1,16 +1,13 @@
-<div class = "container-fluid" >
-    <div class = "row">
-        <div class = "col-xs-12 col-sm-12 col-md-5 col-md-offset-4">
-            <p class ="inform_describe">
-               <a href="#" class="list-group-item active" style = "border:0px;background-color:rgba(255,255,255,0.2)">
-                1.학교를 선택하세요
-               </a>
-                   <%@select.each do |a|%>
-                      <a href="/sharing/selection2/<%=a.id%>" class="list-group-item"><%=a.school%></a>
-                  <%end%>
-              </p>
-            <br>
-        </div>
-    </div>    
+<div class = "container" >
+  <%= render partial: "sharing/flash_message", flash: flash %>
+  <div class = "row">
+    <%@select.each do |a|%>
+      <a href="/sharing/selection2/<%=a.id%>" >
+        <div class = "uni univ-img" >
+          <div class = "uni-header text-center"><img src = "/univ/<%=school_img(a.school)%>.jpg"></div>
+          <div class = "uni-footer text-center"><strong><%=a.school%></strong></div>
+        </div></a>
+    <%end%>
+  </div>    
 </div>
  

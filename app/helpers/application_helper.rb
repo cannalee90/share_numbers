@@ -1,2 +1,95 @@
 module ApplicationHelper
+  def bootstrap_class_for(flash_type)
+    case flash_type
+      when "success"
+        "alert-success"   # Green
+      when "error"
+        "alert-danger"    # Red
+      when "alert"
+        "alert-warning"   # Yellow
+      when "notice"
+        "alert-info"      # Blue
+      else
+        flash_type.to_s
+    end
+  end
+  
+  def school_img(school)
+    case school
+    when "인하대학교"
+      "inha"
+    when "중앙대학교"
+      "cau"
+    when "충남대학교"
+      "cnu"
+    when "단국대학교"
+      "dankook"
+    when "동국대학교"
+      "dongduk"
+    when "덕성여자대학교"
+      "duksung"
+    when "동덕여자대학교"
+      "duksung"  
+    when "이화여자대학교"
+      "ewha"
+    when "유학생"
+      "foreign"
+    when "한동대학교"
+      "handong"
+    when "한양대학교"
+      "hanyang"
+    when "한국외국어대학교"
+      "hufs"  
+    when "전남대학교"
+      "jnu"  
+    when "한국과학기술원"
+      "kaist"  
+    when "강원대학교"
+      "kangwon"  
+    when "한국예술종합학교"
+      "karts"  
+    when "경희대학교"
+      "khu"  
+    when "경북대학교"
+      "knu"  
+    when "건국대학교"
+      "konkuk"  
+    when "국민대학교"
+      "kookmin"  
+    when "고려대학교"
+      "korea"  
+    when "평택대학교"
+      "ptu"  
+    when "부산대학교"
+      "pusan"  
+    when "서울과학기술대학교"
+      "seoultech"  
+    when "성균관대학교"
+      "skku"  
+    when "서울대학교"
+      "snu"  
+    when "서강대학교"
+      "sogang"  
+    when "숙명여자대학교"
+      "sookmyung"  
+    when "성신여자대학교"
+      "sungshin"  
+    when "서울여자대학교"
+      "swu"  
+    when "UNIST"
+      "unist"  
+    when "서울시립대학교"
+      "uos"  
+    when "원광대학교"
+      "wku"  
+    when "연세대학교"
+      "yonsei"  
+    when "영남대학교"
+      "yungnam"  
+    when "아주대학교"
+      "ajou"
+    else
+      "random10"
+    end
+  end
 end

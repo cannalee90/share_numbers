@@ -1,15 +1,15 @@
- <h1 id ="index_title"><strong><span style ="font-size:120px">S</span>haring<span style ="font-size:80px">N</span>umber</strong></h1>
- 
+
 <div class = "container-fluid" >
   <div class = "row">
      <div class = "col-md-12 col-xs-12 ">       
-      <div class= "row"style = "background-color:rgba(255,255,255,0.2)">
-        <div class = "bar">
-           <div class = "col-md-4 col-md-offset-4 col-xs-12">
-            <p class ="inform_describe">4.보내고 싶은 메시지를 작성하세요.<br>
-             <span style = "font-size :15px;color:rgba(255,255,255,0.8)">ex)고려대학교 이종호입니다. 조인엠티 때문에 연락을 드립니다. 번호 좀 부탁드려요.</span></p>
-             
-             
+           <div class = "col-md-4 col-md-offset-4">
+            <p class ="">보내고 싶은 메시지를 작성하세요.<br>
+             <% flash.each do |type, message| %>
+<div class="alert <%= bootstrap_class_for(type) %> alert-dismissable fade in">
+<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+<%= message %>
+</div>
+<% end %>
              <%= form_for @new_post, url: send_sms_path(@id), method: "get" do |f| %> 
                 <div class="form-group">
                   <%=  f.text_area :context, class: 'form-control', :size => "24x6" %>
@@ -27,6 +27,4 @@
             </div>
          </div>
         </div>
-      </div>
-     </div>
     </div>

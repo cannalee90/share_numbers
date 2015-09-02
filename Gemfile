@@ -18,7 +18,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'capistrano-rails'
 gem 'capistrano-passenger'
-
+gem "recaptcha"
 gem 'bitly'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
@@ -31,7 +31,7 @@ gem 'json'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'recaptcha', '~> 0.3.5'
+
 gem 'bcrypt-ruby', '~> 3.1.2'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

@@ -89,7 +89,7 @@ module ApplicationHelper
     when "아주대학교"
       "ajou"
     else
-      "random10"
+      "admin"
     end
   end
 end

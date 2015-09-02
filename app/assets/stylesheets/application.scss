@@ -6,11 +6,10 @@ $navbar-default-link-active-color: $light-orange;
 $navbar-default-link-hover-color: white;
 $navbar-default-link-hover-bg: black;
 
-@import url('http://api.mobilis.co.kr/webfonts/v2/css/BM-HANNAWeb');
 @import 'bootstrap';
 
 #index_title{
-    font-family: 'BM-HANNAWeb';
+//      font-family: 'BM-HANNAWeb';
     color:white;
 }
 .logins{
@@ -22,8 +21,7 @@ body {
   padding-bottom: 60px;
   padding-left: 20px;
   padding-right: 20px;
-  font-family: "Exo2", Arial, san-serif;
-  background-image:url('/lion2.jpg');
+//  font-family: "Exo2", Arial, san-serif;
   background-repeat:no-repeat;
   background-size:cover;
   background-attachment: fixed;
@@ -38,7 +36,7 @@ body {
 .inform_describe{
   font-size:20px;
   color:white;
-  font-family: 'BM-HANNAWeb';
+//  font-family: 'BM-HANNAWeb';
 }
     
 h1{
